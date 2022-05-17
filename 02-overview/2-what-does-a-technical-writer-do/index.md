@@ -49,7 +49,7 @@ Technical writers must be great investigators, but they also need good social sk
 
 If you ever got tired with your field's inclination toward freelancing and side projects, you can take solace in the fact that technical writers generally work under one employer: either full-time or as B2B contractors.  
 
-Remote work is also very common, although this will vary depending on the company as well as the product. Software documentation fits into the home-office pattern well, but for hardware, you might have to be present on site to get hands-on experience with the product.  
+Remote work is also very common, although this will vary depending on the company as well as the product. Software documentation fits into the home-office pattern well, but for hardware you might have to be present on site to get hands-on experience with the product.  
 
 [^1]: This is not to say that technical writing *isn't* or *can't be* creative.
 

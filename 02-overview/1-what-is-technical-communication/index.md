@@ -15,7 +15,7 @@ Especially if the tin features meal prep instructions!
 
 > [...] *combines a range of disciplines that work together to efficiently transfer specialized information to those who need it to accomplish a defined task or goal.[^1]*
 
-A translator needn't be tutored on *the functions of language* and on how information is transferred. In short: it doesn't have to be written; and yet, people, by default, make assumptions based on [*that which is seen*](https://en.wikipedia.org/wiki/Parable_of_the_broken_window), and not *that which isn't.* Hence, even though tech comm professionals communicate *a lot* outside of writing, their job is associated mostly with **documentation** (and other content creation).  
+A translator needn't be tutored on *the functions of language* and on how information is transferred. In short: information doesn't have to be written; and yet, people by default make assumptions based on [*that which is seen*](https://en.wikipedia.org/wiki/Parable_of_the_broken_window), and not *that which isn't.* Hence, even though tech comm professionals communicate *a lot* outside of writing, their job is mostly associated with creating **documentation** and document-related content.  
 
 Documentation, that is *documents*, as in: instruction manuals, guidelines, specifications, training materials, and many–a–similar other.  
 
@@ -23,13 +23,13 @@ Ideally, documentation should exist within the following information lifecycle[^
 
 ![Information lifecycle](../../images/information-lifecycle.png)  
 
-This representation, with a presumably infinite cycle, makes much sense in the context of information, which is naturally subject to constant changes: to being abandoned, and then retrieved; to recycling, and to redefining; to becoming outdated, revised – and then reupdated.  
+This representation, with its presumably infinite cycle, makes much sense in the context of *information*, which is naturally subject to constant changes: to being abandoned, and then retrieved; to recycling, and to redefining; to becoming outdated, revised – and then reupdated.  
 
-As already mentioned, these changes occur separately from changes in the product; and at that they are more volatile. A small but sudden change in the product won't throw the development team off guard, but it will have a huge impact on the documentation project. The product's goal is achieved anyway: to deliver a working solution. The documentation project, however, is shaken, since its goal is to deliver up-to-date content that describes current state of the product, in a manner comprehensive and complete.  
+As already mentioned, these changes occur separately from changes in the product, and they are more volatile at that. A small but sudden change in the product shouldn't really throw the development team off, but it may have a major impact on the documentation. The goal of the development team (i.e., to deliver a working product) will be achieved anyway. The documents, however, may need extensive revisions to stay up-to-date, and to accurately describe the current state of the product.  
 
-Technical communicators should thus be flexible and prepared to adapt to changes; more so than to strictly follow procedures and tasks as specified in project development stages –  
+To adapt, technical communicators should always be ready to respond to any changes that might come up – even more so than to strictly follow tasks specified in project development stages.  
 
-but the stages are no less important.  
+The stages, though, are no less important.  
 
 ### Projects of many stages
 
@@ -41,7 +41,7 @@ Then, documentation is **developed**, **reviewed** (or [tested](../../04-learnin
 
 Documentation must be **maintained**, to account for the aforementioned changes, which – especially in the case of software and [agile](../../09-glossary/index.md/#a) development – happen often and way past the initial product release. Even physical products require constant customer support and quality control – which are supplemented by documents as well.  
 
-When documentation is no longer up to date nor relevant due to major changes in the product (or due to its discontinuation), the cycle is repeated: there are always new versions, new products, and new projects ahead.  
+When no longer relevant due to updates in the product, documentation is discarded and the whole cycle repeats. In the end, there are always new versions, new products, and new projects ahead.  
 
 To paraphrase [Benjamin Franklin](https://constitutioncenter.org/blog/benjamin-franklins-last-great-quote-and-the-constitution):  
 
@@ -51,19 +51,19 @@ To paraphrase [Benjamin Franklin](https://constitutioncenter.org/blog/benjamin-f
 
 ### What disciplines are there in tech comm?
 
-Apart from technical writing, which is creating documentation, there are a few other, related disciplines within technical communication. 
+Apart from technical writing, there are other disciplines within tech comm.  
 
-* **Technical editing** consists in proofreading and editing documentation to ensure linguistic, as well as technical correctness, and to evaluate documents based on how well they fit specified criteria and meet objectives of the project.  
+* **Technical editing** consists in proofreading and editing documents to ensure linguistic as well as technical correctness, and to evaluate documents based on how well they fit specified criteria and meet the project's objectives.  
 
-* **Graphic design** in tech comm involves various tasks concerning visual media: creating and editing website styling, images, diagrams, infographics, etc.  
+* **Graphic design** in tech comm involves various tasks concerning visual media: creating and editing images, diagrams, infographics, website stylesheets, and more.  
 
-* **Information architecture** is the structural design of documentation; it focuses on organizing the content in such a way as to facilitate users' interaction with the documents and ensure efficient communication.  
+* **Information architecture** is the structural design of documentation; it focuses on organizing the content in such a way as to facilitate users' interaction with the documents and to ensure efficient communication in all directions.  
 
-* **User experience (UX)** is less about structural organization of information and more about intuitive design; it concerns the stylistic and functional elements of documentation's design that influence user's experience: the intuitiveness of the interface, simplicity of use, and *usability* of documentation, i.e., the degree to which users' interaction with the document effectively serves their purpose.  
+* **User experience (UX)** is about intuitive design; it concerns stylistic and functional aspects that influence users' experience. Those include the interface, the organization of information, or anything else that contributes to *usability* of documentation, i.e., the degree to which interaction with the document effectively serves the user's purpose.  
 
-* **Technical training** involves planning and creating educational materials, organizing and carrying out training sessions, and similar; in principle: on technical topics.  
+* **Technical training** involves designing and creating educational materials, carrying out training sessions, planning curriculums, and performing a variety of tasks for didactic purposes. As per the name, technical training focuses on *technical* topics.  
 
-* **Technical translation** will surely be your forte if you happen to deal with it in the new field – which you might. Translation-related tasks may involve preparing documents for localization or discussing the design of the document with the translators during planning and design phases, so that later performed localization will be seamless. Imagine, for example, possible layout issues when translating documents to languages with right-to-left writing systems, or with ideographs and syllabaries instead of regular alphabets.  
+* **Technical translation** will be your forte if it ever crosses your tech writing path – and it surely might. In tech comm,translation-related tasks may involve preparing documents for localization or cooperating with translators to design "translation-friendly" content. Imagine, for example, all the layout issues that come up when you localize into languages with right-to-left writing systems or with ideographs instead of alphabets.  
 
 ### Technical writer – how important?
 
