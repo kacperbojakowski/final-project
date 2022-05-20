@@ -97,7 +97,7 @@ If you prefer a more traditional approach, there are books. Popular titles inclu
 * *"Technical Writing for Dummies"* by Sheryl Lindsell-Robert
 * *"The Insider’s Guide to Technical Writing"* by Krista Van Laan
 
-> ❗ **IMPORTANT:** Don't rely too much on physical media, due to rare updates.  
+> ❗ **IMPORTANT:** Due to rare updates of physical media, you shouldn't rely on them too much.  
 
 ### Writing
 

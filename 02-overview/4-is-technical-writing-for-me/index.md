@@ -7,7 +7,7 @@ nav_order: 4
 
 ## Is technical writing for me?
 
-### Ask yourself these questions
+### Ask yourself some questions
 
 If in doubt, see if you would answer *YES* to any of these:  
 

@@ -9,9 +9,9 @@ nav_order: 1
 
 ### Technical writers are translators too
 
-In essence, technical writers are already translators – and vice versa. When you write user manuals for complex software or intricate machines, you convey technical concepts to text that is friendly for non-technical readers. You change difficult jargon to simple terms. You must account for different target audiences. All of this is much like translating texts from one natural language to another.   
+In essence, technical writers are already translators – and vice versa. When you write user manuals for complex software or intricate machines, you convey technical concepts into text that is friendly for non-technical readers. You change difficult jargon to simple terms. You account for different target audiences. All of this is much like translating texts from one natural language to another.   
 
-Conversely, translators are, in a way, already technical writers (and even more so if they translate manuals!); they too write, handle documents, convey concepts, adapt content to new audiences, adjust the register, observe grammar rules and style guides, use specialized software... the list goes on!
+Conversely, translators are, in a way, already technical writers (even more so if they translate manuals!); they too write, handle documents, convey concepts, adapt content to new audiences, adjust the register, observe grammar rules and style guides, use specialized software... the list goes on!
 
 In short, your retraining should feel like a natural transition. You can basically tick off the "writer" part in "technical writer", just like an engineer would do with the "technical". For a head start, it doesn't get much better: if you can tick off both, it means you're already there!  
 
@@ -23,12 +23,12 @@ In your writing, you can be impersonal, brief, and to the point, or inject some 
 
 ### Ready to investigate
 
-In your career, you have translated some specialized documents. Whether they were medical, legal, or technical texts – you realize how much field-specific expertise one needs to translate them well and in a reasonable timespan. To adapt, you have developed readiness to:  
+In your career, you have translated some specialized documents. Whether they were of medical, legal, or technical sort, you realize how much field-specific expertise you need to translate such texts well and in a reasonable timespan. To adapt, you have developed readiness to:  
 
 * keep learning and investigating new topics to update your knowledge
 * reach out to experts when you're out of your depth
 
-To a technical writer, much of this would sound familiar!  
+To a technical writer, much of this will sound familiar!  
 
 ### Tools to tick off
 
