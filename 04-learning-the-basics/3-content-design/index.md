@@ -9,9 +9,9 @@ nav_order: 3
 
 ### Persona
 
-In technical writing, like in translation, you need to mind your audience. Custom-tailored documents are more effective; they save a lots of time and resources. This works on both ends: your readers get content that suits their needs, and you have an easier task planning the scope of the project. Just think how much bigger this guide would be if I had to include sections on CAT tools and localization. *Oof...* You bet I would have picked another topic. ☺  
+In technical writing, like in translation, you need to mind your audience. Custom-tailored documents are more effective; they save a lot of time and resources. This works on both ends: your readers get content that suits their needs, and you have an easier task planning the scope of the project. Just think how much bigger this guide would be if I had to include sections on CAT tools and localization. *Oof...* You bet I would have picked another topic. ☺  
 
-To better picture project requirements, technical writers prepare personas – fictional profiles with features that represent some key characteristics (e.g. level of knowledge, social group, age) of the target audience. A persona should be realistic and based on market research, customer feedback, project goals, use cases, and other available data.  
+To better picture project requirements, technical writers prepare personas – fictional profiles with features that represent some key characteristics (e.g., level of knowledge, social group, age) of the target audience. A persona should be realistic and based on market research, customer feedback, project goals, use cases, and other available data.  
 
 ![Persona](../../images/persona.png)  
 *Make sure your persona's features are relevant.* | Image source: [Turtle.co](https://turtl.co/blog/behavioral-insights-meme-breakdown/)
@@ -23,21 +23,21 @@ A persona should help you specify what information to include in a document and 
 * What are their needs?
 * How do they use documentation? 
 
-Let's take, for example, documentation for headphone amplifiers. A user guide would include a short description of what the device does (and, in a marketing fashion, why buying it was *the best decision ever*) and how to use it; maybe some simplified specs here and there too. 
+Let's take, for example, documentation for headphone amplifiers. A user guide would include a short description of what the device does (and, in the marketing fashion, why buying it was *the best decision*), how it's used, and what the basic specs are.  
 
-On the other hand, an enthusiast who modifies amplifiers, would be better suited with something like this:  
+On the other hand, an enthusiast who modifies amplifiers would be better off with something like this:  
 
 ![muses](../../images/muses.png)  
 
 I don't think we need to add *"the green LED indicates your device is on"* here.
 
-Personas can vary a lot. A gamer would prefer on-screen instructions to a PDF. A senior person might choose printed media over online help. A construction worker may need a leaflet to hold in one hand. Many factors influence the shape of your document.
+Personas can vary a lot. Gamers prefer on-screen instructions to PDFs. Senior users might choose printed media over online help. A construction worker may need a leaflet to hold in one hand. There are plenty of factors that influence the shape of your document.  
 
 ### STE and Plain English
 
 As a translator, you know that technical texts favor simplicity. Instructions should be clear, concise, and written in plain language – lest you misconnect a wire and cause some tragedy.  
 
-[ASD-STE100](https://asd-ste100.org/), or Simplified Technical Language, goes a little further than dreading Past Perfect. It is a controlled language created specifically to provide clarity and reduce ambiguity in technical texts. STE is maintained and developed by the Simplified Technical English Maintenance Group (STEMG).
+[ASD-STE100](https://asd-ste100.org/), or Simplified Technical Language, goes a little further than dreading the *Past Perfect*. It is a controlled language created specifically to provide clarity and reduce ambiguity in technical texts. STE is maintained and developed by the Simplified Technical English Maintenance Group (STEMG).
 
 STE has very specific rules regarding grammar and vocabulary. Polysemous words have one approved meaning, there are no phrasal verbs, and certain words are limited to only one part of speech. For example, *acceptance* is not permitted; you rephrase your sentences to use the verb *accept* instead. For detailed instructions, check out the latest issue of [STE specification](https://asd-ste100.org/request.html).  
 
@@ -55,7 +55,7 @@ Information architecture helps to create a user-centered design for the content,
 
 Information architects are interested in elements such as: navigation bars, tables of contents, search boxes, [breadcrumbs](../../09-glossary/index.md/#b), [admonitions](../../09-glossary/index.md/#a), and similar – all in the context of how users interact with these elements to navigate documents and find what they are looking for.  
 
-Information architecture draws from cognitive psychology; it analyzes *mental models* in users, to predict their behavior and to structure information in a way that reflects these models best. It also studies so-called *cognitive load*, i.e. how much information a user can process at a time; this includes considerations of short- and long-term memory, among other things.  
+Information architecture draws from cognitive psychology; it analyzes *mental models* in users, to predict their behavior and to structure information in a way that reflects these models best. It also studies so-called *cognitive load*, i.e., how much information a user can process at a time; this includes considerations of short- and long-term memory, among other things.  
 
 ### Graphic design
 
@@ -63,15 +63,17 @@ How much graphic design does a *writer* really need?
 
 I'll share an analogy that you, a translator, might appreciate.  
 
-You may know about the earliest writing systems: they started out as pictograms and then gradually took more abstract forms; pictures became ideograms, then symbols, and so on, until we developed syllabaries and alphabets, thenceforth known as *writing*.
+You know about the earliest writing systems. They started out as pictograms and then took more abstract forms: pictures became ideograms, ideograms became symbols, and symbols became... less complex symbols, I guess? Then they turned into logograms, syllabaries, and alphabets – *writing* as we know it today. All of this happened *gradually* over a long time.  
 
-In tech comm, it's similar, only in reverse. Documents are increasingly visual. This trend is likely to continue because the benefits are *visible*. Where words are replaced with images, UX professionals see intuitive design, users have their impatience catered for, and companies cut translation costs (*sorry!*).
+Dumbed down, sure, but you get the point.  
 
-*So when do pictograms become writing and writing becomes pictures?*
+In tech comm, the case is similar – only in reverse. Docs become increasingly visual. This trend is likely to continue because the benefits are *visible*. Where words become pictures, design gets intuitive, users save time, and translation costs are cut (*sorry!*).
+
+*So, at which point do "pictograms" become "writing" and "writing" becomes "pictures"?*
 
 Technical *writers* still *write*, even if in images. Visual tasks may involve anything from taking screenshots to creating [infographics](https://wavelength.training/wp-content/uploads/2018/08/Technical-Writing-1.png), supplementing tutorials with GIFs, or preparing instructional videos.  
 
-Then there are modeling languages, such as UML (Unified Modeling Language) or BPMN (Business Process Modeling Notation). They are standards for creating diagrams to represent complex systems and processes. UML helps software developers visualize the structure of systems they build. With BPMN, corporations can present internal procedures to employees in training, to management for analysis, etc.    
+Then there are modeling languages, such as UML (Unified Modeling Language) or BPMN (Business Process Modeling Notation). They are standards for creating diagrams to represent complex systems and processes. UML helps software developers visualize the structure of systems they build. With BPMN, corporations can present internal procedures to employees in training, to management for analysis, etc.  
 
 ![BPMN](../../images/bpmn.png)  
 *An example of BPMN diagram. Note the standardized elements: rectangle boxes for tasks, rhombus for conditional YES/NO, etc.* | Image by Mikelo Skarabo
@@ -111,7 +113,7 @@ Overall, it is a very interesting area that has been rapidly evolving from a nic
 
 User experience and accessibility can be accounted for in documentation testing. Testing phase for documents is no less important than it is for software and physical products.   
 
-There are various testing methods; which will be applied depends on the workflow of a company, the types of deliverables, and the publishing route. Collectively, document-testing practices are also referred to as *content audit*. Semantics aside, the point is to check if documents are well-written and fulfil the objectives set out during the planning phase.  
+There are various testing methods for docs; which method will be applied depends on the workflow of a company, the types of deliverables, and the publishing route. Collectively, document-testing practices are also referred to as *content audit*. Semantics aside, the point is to check if documents are well-written and fulfil the objectives set out during the planning phase.  
 
 What is examined?
 
@@ -121,14 +123,14 @@ What is examined?
 * Accessibility
 * Technical aspects
 
-Technicalities are abundant in web-published content. Technical testing may involve: searching for broken links, checking how well the content scales (web responsiveness), how accurate search results are, and so on.  
+Technicalities are abundant in web-published content. Technical testing may involve searching for broken links, checking how well the content scales (web responsiveness), how accurate search results are, and so on.  
 
 ![Treejack](../../images/treejack.jpg)  
 *With UX testing tools like [Treejack](https://www.optimalworkshop.com/treejack/), you can ask readers for feedback on your information architecture.* | Image source: [Optimal Workshop](https://www.optimalworkshop.com/wp-content/uploads/2020/03/product-screenshot_treejack.png)  
 
 Whether online or printed, your documentation should always be reviewed. Peer reviews can be performed by other technical writers, editors, translators, technical experts, and the like. In bigger companies like Google, your content may pass even 4–5 reviews before it's published[^1].  
 
-> 💡 **TIP:** In some companies, technical writers struggle with getting feedback. It can be difficult to get your busy colleagues to review your content. If you suspect that your experts don't actually read what you send them, try this trick: intentionally write something nonsensical in your draft and see if they spot it. If not, then point it out; this should draw their attention[^2].  
+> 💡 **TIP:** In some companies, technical writers struggle with getting feedback. It can be difficult to get your busy colleagues to review your content. If you suspect that your experts don't read what you send them, try this trick: intentionally write something nonsensical in your draft and see if they spot it. If not, then point it out; this should draw their attention[^2].  
 
 [^1]: [(Górski, 2022)](../../11-about/#university-materials)  
 [^2]: Hat tip to Daniel Barrio Fierro for sharing this anecdote.  

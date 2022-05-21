@@ -12,10 +12,10 @@ nav_order: 1
 
 Welcome to the guide on how to retrain from translation to technical writing. Changing careers can be daunting, but don't let the fear hold you down. Translators make great documentation writers, and you certainly won't be the first one to have taken this path. As a language professional, you already have skills that should give you a head start. All you need is some technical background and basic understanding of the field. In this guide, you will learn about:
 
-* career opportunities in technical communication
-* basic concepts and knowledge required in the field
-* tools used by tech comm specialists in everyday work
-* courses and certifications for technical writers
+* Career opportunities in technical communication
+* Basic concepts and knowledge required in the field
+* Tools used by tech comm specialists in everyday work
+* Courses and certifications for technical writers
 
 You will also learn how to build your portfolio, how to prepare your resume, and – hopefully – how to land your first job as a technical writer.
 

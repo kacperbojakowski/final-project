@@ -30,7 +30,7 @@ You will learn about the documented subject from: previous documentation, produc
 
 For technical information, you will rely on engineers, developers, testers, product owners, and other **subject matter experts**.  
 
-SME's technical knowledge is crucial for your input. Unfortunately, they are *terribly busy* developing the product, so their time (and patience) is limited. This can, at times, lead to problems with communication.  
+SME's input is crucial for your project. Unfortunately, they are *terribly busy* developing the product, so their time (and patience) is limited. This can, at times, lead to tensions between you and the experts. As a communicator, you should identify such problems quickly and address them before things go downhill.  
 
 ### How to deal with an unresponsive SME?
 
