@@ -10,7 +10,7 @@ nav_order: 8
 
 ## Final thoughts
 
-Congratulations! If you're really reading this as a conclusion (i.e. you've covered all the topics before), then you have shown some resilience! That's great: you might need it to power through even wordier docs in the future.  
+Congratulations! If you're really reading this as a conclusion (i.e., you've covered all the topics before), then you have shown some resilience! That's great: you might need it to power through even wordier docs in the future.  
 
 I hope you enjoyed it and found it useful. If not – that's fine too! We read good documentation to learn how to write, but learning how *not to write* is no less important. You can find opportunities for growth in anything if you search deeply enough (*just don't nag your SME too much!*).
 

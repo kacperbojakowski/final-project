@@ -18,7 +18,7 @@ and they are doing great at that! Some of the names behind ITCQF include people 
 
 ITCQF offers an accredited course: Certificate for Technical Communication Professionals – Foundation Level. The two-day program prepares you to take a certified exam.  
 
-The knowledge is pretty rudimentary, but it's the milestone you need to pass to get further in an orderly manner. You will learn about the documentation lifecycle, types of deliverables, and different phases of a documentation project, among other things. For details, check the [syllabus](https://itcqf.org/wp-content/uploads/2020/06/ITCQF_Syllabus_v2_0Jun2020.pdf).  
+The knowledge is rather rudimentary, but it's the milestone you need to pass to get further in an orderly manner. You will learn about the documentation lifecycle, types of deliverables, and different phases of a documentation project, among other things. For details, check the [syllabus](https://itcqf.org/wp-content/uploads/2020/06/ITCQF_Syllabus_v2_0Jun2020.pdf).  
 
 The true value of the course lies in the opportunity to meet people from the field; to ask questions and get insight; to hear anecdotes and real-life examples. This is something you won't read about in textbooks.  
 

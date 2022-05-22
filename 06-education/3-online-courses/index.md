@@ -13,7 +13,7 @@ You won't learn by watching *only*, that is. You can easily fall into the trap o
 
 ### Should you pay for materials?
 
-I'm sure there are paid courses worth their asking price, but consider them for reasons beyond didactics. If you your resume looks empty, note that Udemy, for example, lets you link digital certificates to your LinkedIn profile. Just make sure your certificates, digital or not, are backed up by real skills.  
+I'm sure there are paid courses worth their asking price but consider them for reasons beyond didactics. If you your resume looks empty, note that Udemy, for example, lets you link digital certificates to your LinkedIn profile. Just make sure your certificates, digital or not, are backed up by real skills.  
 
 ### MOOC providers
 

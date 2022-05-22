@@ -11,7 +11,7 @@ nav_order: 4
 
 Version Control Systems (VCS) are systems designed for tracking and controlling changes in software source code – though not only! You can just as well use them to track changes in any other type of content within your documentation.  
 
-They also provide the functionality of *branches*, i.e. developers can work independently on various aspects of the software, e.g. you might be implementing one feature, and your colleague, at the same time, might be working on something else. Then, both of you *commit* (send to the server) your work progress and *merge* it into the main branch for the project; thus, your work is aligned and integrated into the product. In case there are *conflicts* between your contributions, you will solve them manually (just don't solve other conflicts with your colleagues *manually* as well ☺).  
+They also provide the functionality of *branches*, i.e., developers can work independently on various aspects of the software, e.g., you might be implementing one feature, and your colleague, at the same time, might be working on something else. Then, both of you *commit* (send to the server) your work progress and *merge* it into the main branch for the project; thus, your work is aligned and integrated into the product. In case there are *conflicts* between your contributions, you will solve them manually (just don't solve other conflicts with your colleagues *manually* as well ☺).  
 
 ![Git workflow](../../images/git-workflow.png)  
 *A simplified representation of Git workflow.* 
@@ -20,7 +20,7 @@ VCS also provide a varying degree of protection against accidental data loss (or
 
 Colloquially, any version control system can be referred to as *VCS*, but – to be exact – there are certain types and differences to consider.  
 
-Originally, VCS were only *centralized* (CVCS). This meant that you – the so-called *client* – had to communicate with a remote *server* for each of your *commands* (e.g. *commit*, *merge*, etc.), which took a while.  
+Originally, VCS were only *centralized* (CVCS). This meant that you – the so-called *client* – had to communicate with a remote *server* for each of your *commands* (e.g., *commit*, *merge*, etc.), which took a while.  
 
 Then, Distributed Version Control System (DVCS) were introduced; these don't rely on a central server; instead, every contributor to a project has an inependent repository with a full history of changes. This allows for faster communication with the main repository, adds the possibility of offline work (as you have a copy of the repository on your local machine), and increases the protection of data (with more copies of the main repository, than just a single central one).  
 
@@ -45,7 +45,7 @@ It is *crucial* for you as a beginner in tech writing to at least get the very b
 
 * Consider [learning Git](../../06-education/3-online-courses/index.md/#free-recommendations) in depth (including command line).
 * Write clear and short commit messages (and descriptions, optionally).
-* Write using [imperatives](https://www.theserverside.com/video/Follow-these-git-commit-message-guidelines), e.g. *"Add new buttons"* instead of *"Adding new buttons"*.
+* Write using [imperatives](https://www.theserverside.com/video/Follow-these-git-commit-message-guidelines), e.g., *"Add new buttons"* instead of *"Adding new buttons"*.
 * Mind the difference between main repositories and [forks](https://docs.github.com/en/get-started/quickstart/fork-a-repo).
 * Save your work often and commit regularly (a few times a day).
 
@@ -53,7 +53,7 @@ It is *crucial* for you as a beginner in tech writing to at least get the very b
 
 ### Project management
 
-Technical writers may also use various software to facilitate project management; these are usually solutions adopted globally (i.e. *by everybody* ☺) in a company – and they will vary.  
+Technical writers may also use various software to facilitate project management; these are usually solutions adopted globally (i.e., *by everybody* ☺) in a company – and they will vary.  
 
 An example of such software is Atlassian's [Jira](https://www.atlassian.com/software/jira):
 
@@ -64,7 +64,7 @@ Although originally intended as a bug tracking system only, it quickly developed
 
 In the screenshot below, you can see the main screen of a project in Jira: the current [sprint](../../09-glossary/index.md/#s) with divided columns for tasks *"to do"*, *"in progress"*, *"in review"*, and so on. Apart from the ability to grab and move the tasks across the columns, you can also link issues, add descriptions, and a lot more.  
 
-There are many other tools for project management out there, and we are not going to list them here. Just do know that they exist and their purpose is to facilitate workflow without a given *methodology* (e.g. aforementioned Agile). Which tool you will use will depend on your company and their adopted methodology.   
+There are many other tools for project management out there, and we are not going to list them here. Just do know that they exist, and their purpose is to facilitate workflow without a given *methodology* (e.g., aforementioned Agile). Which tool you will use will depend on your company and their adopted methodology.   
 
 ---
 

@@ -18,13 +18,13 @@ Think of editing text in **Microsoft Word**:
 
 Why bother with [HATs](../2-content-management-and-publishing/index.md/#help-authoring-tools) or [markups](#markup-languages) if you could use a WYSIWYG and call it a day? Put simply: because you don't want to. It is much more flexible to have content separated from formatting (See: [Single sourcing](../../04-learning-the-basics/4-standards-and-practices/index.md/#single-sourcing)). Word is hardly fit for bigger project where you constantly add, update, reuse, and export content across multiple documents.
 
-Nevertheless, there are technical writers out there writing in Word, for better or worse. It is a staple of office software and some companies still use it for documentation. From time to time, you might see MS Word listed in job requirements. With that said, knowing the basics wouldn't hurt.  
+Nevertheless, there are technical writers out there writing in Word, for better or worse. It is a staple of office software, and some companies still use it for documentation. From time to time, you might see MS Word listed in job requirements. With that said, knowing the basics wouldn't hurt.  
 
 As a translator, you have probably used MS Word or its alternatives (LibreOffice, Google Docs, etc.), so you won't need much training here. As a reminder, make sure you follow these tips:  
 
 * Do not press ENTER multiple times to move content to a new page; use *page break* instead.  
 * Do not indent lines manually by inserting multiple spaces; use `TAB` instead and adjust indentation size in the settings, or use *the ruler*.  
-* Do not create headers and titles manually; instead, use in-built design layouts (or define your own) and configure them if necessary. This ensures that Word will recognize sections correctly and that all layout-dependent functions (e.g. auto-generated TOCs) will work without errors.  
+* Do not create headers and titles manually; instead, use in-built design layouts (or define your own) and configure them if necessary. This ensures that Word will recognize sections correctly and that all layout-dependent functions (e.g., auto-generated TOCs) will work without errors.  
 * In general, try not to insert structure- and formatting-related elements (headers, footers, references, page numbers, etc.) manually if you can add them through dedicated options.  
 * Memorize useful keyboard shortcuts (for MS Word on Windows):  
 
@@ -40,7 +40,7 @@ Well-settled in the IT industry, source code editors do exactly what the name su
 
 Technical writers use code editors especially within [Docs as Code](../../04-learning-the-basics/3-standards-and-practices/index.md/#docs-as-code). Regardless of your future workflow, though, they will still be useful for learning Markdown, HTML, and basic coding. As long as you don't fiddle with too many options, source code editors are fairly intuitive and easy to grasp. Just think of your editor as an overgrown, steroid-fueled Notepad (which it basically is).  
 
-> 💡 **TIP:** Code editors, unlike word processors, don't come with as many pre-isntalled amenities (e.g. spell-checkers). As a result, some writers end up using hyphens in place of dashes (Word natively changes space-separated hyphens into dashes). Remember these keyboard shortcuts to write dashes manually:
+> 💡 **TIP:** Code editors, unlike word processors, don't come with as many pre-installed amenities (e.g., spell-checkers). As a result, some writers end up using hyphens in place of dashes (Word natively changes space-separated hyphens into dashes). Remember these keyboard shortcuts to write dashes manually:
 
 > * M-dash (—): `alt + 0150` (Windows); `shift + option + hyphen (-)` (Mac)
 > * N-dash (–): `alt + 0151` (Windows); `option + hyphen (-)` (Mac)
@@ -58,7 +58,7 @@ To install, go to *Extensions* (top-left corner, icon with four squares) → cli
 
 #### Not programming languages
 
-Sometimes, for the uninitiated, any "code", i.e. a string of keyboard symbols other than letters and standard punctuation, looks like a "programming language". I might be preaching to the choir here, but let's make it clear: markups are not programming languages.  
+Sometimes, for the uninitiated, any "code", i.e., a string of keyboard symbols other than letters and standard punctuation, looks like a "programming language". I might be preaching to the choir here, but let's make it clear: markups are not programming languages.  
 
 With programming languages, people tell computers to perform tasks; they write algorithmic instructions for computers to execute. Programming languages are used for creating programs.
 
@@ -68,11 +68,11 @@ With markup languages, people tell computers how to present data; they add marku
 
 [HTML](https://www.w3.org/html/) (HyperText Markup Language) is the standard markup language for structuring and displaying web content. It is maintained and documented by the World Wide Web Consortium ([W3C](https://www.w3.org/Consortium/)).  
 
-Documents writen in HTML are interpreted by your browser and rendered into websites that you visit every day. HTML elements are building blocks of web content.  
+Documents written in HTML are interpreted by your browser and rendered into websites that you visit every day. HTML elements are building blocks of web content.  
 
 These blocks are like bones in a website's skeleton. They can be "fleshed out" with stylesheet languages ([CSS](https://www.w3schools.com/css/css_intro.asp)) and scripting languages (JavaScript).  
 
-The former provide "the skin", i.e. the presentational layer: layout, colors, fonts, etc. The latter are "the muscles": they make the bones move, i.e. prompt the content to behave in a certain way (e.g. web applications).  
+The former provide "the skin", i.e., the presentational layer: layout, colors, fonts, etc. The latter are "the muscles": they make the bones move, i.e., prompt the content to behave in a certain way (e.g., web applications).  
 
 There are also server-side languages ("the brain?"), such as PHP, responsible for the logic behind the website-server communication. This is, of course, a simplification.  
 
@@ -94,7 +94,7 @@ Take a look at this HTML code:
 You can actually paste it into Notepad, save as "YourFile.html", and open the file in your browser. This is a *legit* web document.  
 
 * `<!DOCTYPE>` specifies the document type.
-* `<head>` includes various metadata (e.g. page title, links to stylesheet files, etc.).
+* `<head>` includes various metadata (e.g., page title, links to stylesheet files, etc.).
 * `<body>` is the actual content you see in the browser.
 * `<h1>` is a header.
 * `<p>` is a paragraph.
@@ -157,7 +157,7 @@ This unlimited *expresiveness* of XML is what sets it apart; in theory, you can 
 
 XML content is meant to be processed by software to produce various results. It's great for separating content from formatting: you write it once and then instruct your publishing tool to transform it to various outputs (*[Single sourcing](../../04-learning-the-basics/4-standards-and-practices/index.md/#single-sourcing)*).
 
-The problem with XML is that you will eventually have to learn some standard to follow (e.g. [DITA](../../04-learning-the-basics/4-standards-and-practices/index.md/#dita)), and that for bigger projects you might need paid tools such as [Oxygen XML](https://www.oxygenxml.com/) or [Adobe FrameMaker](https://www.adobe.com/products/framemaker.html).
+The problem with XML is that you will eventually have to learn some standard to follow (e.g., [DITA](../../04-learning-the-basics/4-standards-and-practices/index.md/#dita)), and that for bigger projects you might need paid tools such as [Oxygen XML](https://www.oxygenxml.com/) or [Adobe FrameMaker](https://www.adobe.com/products/framemaker.html).
 
 #### Markup comparison table
 

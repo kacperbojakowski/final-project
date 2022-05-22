@@ -11,7 +11,7 @@ nav_order: 3
 
 The outlook for technical writers is very positive, but what you'll find online is a mixed bag: from promises of a dream job to automation-themed scaremongering. The truth, like usual, lies in the middle.  
 
-Some claim that the profession will soon die out due to advancements in machine learning. As a translator, you've probably heard that about your job too, and yet you've been doing just fine... or have you? Even if you were replaced by a robot, don't worry – you're not jumping off the pan into the fire.  
+Some claim that the profession will soon die out due to advancements in machine learning. As a translator, you've probably heard that about your job too, and yet you've been doing just fine... or have you? Even if you were replaced by a robot, don't worry – you're not jumping out of the pan into the fire.  
 
 Translating is about *translating*, but technical writing is not nearly as much about *writing*. Machine translation has come a long way, but machines won't talk to subject matter experts, analyze the target audience, plan projects and design visual materials; not all at once, at least, and not until they're told to.  
 

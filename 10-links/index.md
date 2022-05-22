@@ -58,7 +58,7 @@ Here is a list of all external website links that appeared in this guide (exclud
 [Pracuj.pl](https://www.pracuj.pl/)  
 [Rocket Jobs](https://rocketjobs.pl/)  
 
-#### Standards and styleguides
+#### Standards and style guides
 
 [ASD-STE100](https://asd-ste100.org/)  
 [Atlassian Design System](https://atlassian.design/)  

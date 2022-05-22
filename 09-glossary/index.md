@@ -14,9 +14,9 @@ Here is a list of various technical terms and abbreviations (in parentheses) tha
 
 ###### A
 
-**Absolute path** – a path that leads to a file or a folder using its full directory address, e.g. `C:\Program Files\GIMP 2\bin\gimp-2.10.exe`; used in websites and operating systems. | *See also: [Relative path](#r)* |  
+**Absolute path** – a path that leads to a file or a folder using its full directory address, e.g., `C:\Program Files\GIMP 2\bin\gimp-2.10.exe`; used in websites and operating systems. | *See also: [Relative path](#r)* |  
 
-**Admonitions** – specially marked (usually with icons, indentations, etc.) blocks of content that provides users with additional information (e.g. *"❕ NOTE: ..."*), give them a warning, draw their attention to something important, etc. |  
+**Admonitions** – specially marked (usually with icons, indentations, etc.) blocks of content that provides users with additional information (e.g., *"❕ NOTE: ..."*), give them a warning, draw their attention to something important, etc. |  
 
 **Agile** – an iterative approach in software development and project management that emphasizes adaptability, continuous improvement, and incremental delivery of a product; flexible, good for software; includes various methodologies and practices, such as [Scrum](#s). |  
 
@@ -36,9 +36,9 @@ Here is a list of various technical terms and abbreviations (in parentheses) tha
 
 ###### D
 
-**Distributed Version Control System (DVCS)** – a [version control system](#v) which doesn't rely on a central server; instead, every contributor to a project has an inependent repository with a full history of changes. |  
+**Distributed Version Control System (DVCS)** – a [version control system](#v) which doesn't rely on a central server; instead, every contributor to a project has an independent repository with a full history of changes. |  
 
-**Docs as Code** – a philosophy of writing documentation in the way software developers write code, i.e. using code editors, [version control systems](#v), [static site generators](#s), etc. |  
+**Docs as Code** – a philosophy of writing documentation in the way software developers write code, i.e., using code editors, [version control systems](#v), [static site generators](#s), etc. |  
 
 ###### E
 
@@ -90,7 +90,7 @@ Here is a list of various technical terms and abbreviations (in parentheses) tha
 
 ###### P
 
-**Persona** – in content design, a fictional profile with features that represent some key characteristics (e.g. level of knowledge, social group, age) of the target audience. |  
+**Persona** – in content design, a fictional profile with features that represent some key characteristics (e.g., level of knowledge, social group, age) of the target audience. |  
 
 **Plain English** – a subset of English that is easy to understand, with simple vocabulary and grammar. |  
 
@@ -100,9 +100,9 @@ Here is a list of various technical terms and abbreviations (in parentheses) tha
 
 **Raster graphics** – a type of computer graphics where the image is represented as a grid of pixels; example: JPG. | *See also: [Vector graphics](#v)*  
 
-**Relative path** – a path that leads to a file or a folder and uses the current location as a starting point, e.g. `../images/avatar.jpg`. | *See also: [Absolute path](#a)*  
+**Relative path** – a path that leads to a file or a folder and uses the current location as a starting point, e.g., `../images/avatar.jpg`. | *See also: [Absolute path](#a)*  
 
-**Reuse** – a practice where a piece of content is written once and then reused many times, e.g. as snippets. |  
+**Reuse** – a practice where a piece of content is written once and then reused many times, e.g., as snippets. |  
 
 ###### S
 
@@ -112,7 +112,7 @@ Here is a list of various technical terms and abbreviations (in parentheses) tha
 
 **Single sourcing** – a practice where a document is written once and then presented in multiple output formats. |  
 
-**Source code editor** – text-editing software for writing computer code, e.g. VSC. |   
+**Source code editor** – text-editing software for writing computer code, e.g., VSC. |   
 
 **Sprint** – a time-boxed period of work with a set number of tasks to complete; used in [agile](#a) methodologies such as [Scrum](#s). |  
 
@@ -132,7 +132,7 @@ Here is a list of various technical terms and abbreviations (in parentheses) tha
 
 ###### V
 
-**Validity** – a document written in a [markup language](#m) is valid when its syntax and structure follow the rules of that language, e.g. tags are closed and properly nested, correct attributes are used, etc. In XML, easy to confuse with [well-formedness](#w). |  
+**Validity** – a document written in a [markup language](#m) is valid when its syntax and structure follow the rules of that language, e.g., tags are closed and properly nested, correct attributes are used, etc. In XML, easy to confuse with [well-formedness](#w). |  
 
 **Vector graphics** – a type of computer graphics where the image is drawn by a computer along specified coordinates, according to a set of commands and mathematical statements. This allows for scaling of the image without loss in resolution, as the graphics are rendered from the code and not stored as a fixed map of pixels; example: SVG. | *See also: [Raster graphics](#r)*  
 

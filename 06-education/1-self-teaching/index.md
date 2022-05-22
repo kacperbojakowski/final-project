@@ -18,19 +18,19 @@ While reading, pay attention to these elements and aspects:
 * Structure of the document at the "macro" level:
   * Table of contents
   * Division into sections and subsections (or chapters and subchapters)
-  * Structural separation of different types of information, e.g. instructions (step-by-step procedures), concepts (descriptions, definitions), and reference information (datasheets, specifications)
+  * Structural separation of different types of information, e.g., instructions (step-by-step procedures), concepts (descriptions, definitions), and reference information (datasheets, specifications)
   * Metatextual content (revision history, chapter objectives)
   * Legal notes (copyrights, regulations)
   * Glossaries, indexes, references
 * Structure of sections and pages:
   * Page layout (headers and footers, margins, alignment, page numbers etc.)
   * Text style and formatting (font variants, headline styles, bullet lists, etc.).
-* Localization (translations and regional adjustments, e.g. pictures featuring the correct, country-specific type of power plugs)
+* Localization (translations and regional adjustments, e.g., pictures featuring the correct, country-specific type of power plugs)
 * Language style and grammar:
-  * Language variety (e.g. British vs. American)
+  * Language variety (e.g., British vs. American)
   * Grammatical correctness, punctuation, typos
-  * Sentence structure (e.g. passive vs. active voice)
-  * Choice of words (e.g. technical terms vs. plain language)
+  * Sentence structure (e.g., passive vs. active voice)
+  * Choice of words (e.g., technical terms vs. plain language)
   * Ambiguity and redundancy (explicitness vs. cohesion)
   * Style and register
 * Visual content (pictures and icons, including captions and indexing)
@@ -42,7 +42,7 @@ Assess the document by considering these questions:
 * Is the information helpful, clear, and easy to find?
 * Is the print sharp? Are images in high resolution? Is the text (well-) translated?
 * Is the information correct, up-to-date, and conforming to industry standards (if applicable)?
-* Can you access the content elswhere (e.g. download as a PDF)?
+* Can you access the content elsewhere (e.g., download as a PDF)?
 
 > ❗ **IMPORTANT**: The above framework is *not* an industry-approved method for *documentation testing*; it's a simple outline to help you focus on aspects that may contribute to overall quality of documentation.
 
@@ -51,7 +51,7 @@ You could use the same approach for documents published online, but with some ad
 * Website responsiveness: how well the website scales relative to window size on different devices?
 * Are all elements loading and being displayed correctly?
 * Are there fallbacks for fonts and alt-texts for images?
-* Is the user interface intuitive and functional (e.g. collapsible navigation, "back to top" buttons, etc.)?
+* Is the user interface intuitive and functional (e.g., collapsible navigation, "back to top" buttons, etc.)?
 * Are links and anchor elements loading correctly and pointing to the right resources?
 
 Once you spend some time reading documents and studying content design, you'll develop an eye for good (and bad) documentation, just like you did for translation. From then on, all you do is put theory to practice: mimic the good, avoid the bad, and follow approved trends in your writing.  
@@ -65,7 +65,7 @@ Sometimes you won't find a clear answer. Trends in tech comm are changing and th
 Reading any documentation would be a good idea, but if you're really pressed for time, you can kill two birds with one stone: 
 
 * Read manuals for the products you buy.
-* Read documentation (including tutorials) for the tools and technologies you learn (e.g. [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)).
+* Read documentation (including tutorials) for the tools and technologies you learn (e.g., [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)).
 
 Definitely check out professional docs on *how to write docs*: documentation style guides such as [Atlassian Design System](https://atlassian.design/) or [Google developer style guide](https://developers.google.com/style).
 

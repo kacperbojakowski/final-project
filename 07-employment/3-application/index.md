@@ -42,7 +42,7 @@ There are other tech- and content-related jobs out there that you might consider
 
 #### Questions
 
-Apart from typical typical talk about your motivations, experience, and the like, you can expect questions on field-specific (technical) topics. Those will vary, so look for hints in the requirements. If it's API documentation, then you should probably know what an [endpoint](../../09-glossary/index.md/#e) is. If it's writing docs for a web app, be ready to explain what HTML, HTTP, IP, or the Internet is (sounds easier than it is, right?). If it's corporate process docs, find out more about the company you're applying for; and so on. You get the idea.  
+Apart from typical talk about your motivations, experience, and the like, you can expect questions on field-specific (technical) topics. Those will vary, so look for hints in the requirements. If it's API documentation, then you should probably know what an [endpoint](../../09-glossary/index.md/#e) is. If it's writing docs for a web app, be ready to explain what HTML, HTTP, IP, or the Internet is (sounds easier than it is, right?). If it's corporate process docs, find out more about the company you're applying for; and so on. You get the idea.  
 
 Other questions may concern issues that technical writers, regardless of the sector, deal with on regular basis. Those could be for example:  
 
@@ -57,7 +57,7 @@ Hopefully, if you've read the previous sections, you can answer these by now!
 
 In the process of your recruitment, you may be asked to complete certain tasks designed to test your skills. These can take the form of a short exercise during the interview, or a longer assignment to prepare at home. 
 
-An example of the former would be an "ELI5" ("Explain Like I'm Five") description of a technical concept: *API*, *single sourcing*, or similar. Sometimes you may be asked to prepare short instructions for something fairly obvious, e.g. *"how to use a nutcracker?"* or *"how search for images in Google?"*. Silly as they may sound, these tasks help to determine how well you can recognize and break down steps in a process and how clearly you can organize and present your thoughts.
+An example of the former would be an "ELI5" ("Explain Like I'm Five") description of a technical concept: *API*, *single sourcing*, or similar. Sometimes you may be asked to prepare short instructions for something obvious, e.g., *"how to use a nutcracker?"* or *"how to search for images in Google?"*. Silly as they may sound, these tasks help to determine how well you can recognize and break down steps in a process and how clearly you can organize and present your thoughts.
 
 Longer assignments often concern a specific tool, standard, or technology. A task like this could be to use DITA in OxygenXML to recreate the TOC and folder structure of a PDF you got from the recruiters. In an easier variant, it could be rewriting said document in Markdown or HTML, for example.
 

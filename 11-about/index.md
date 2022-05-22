@@ -27,7 +27,7 @@ You can contact me at <kacperbojakowski@gmail.com>.
 
 ### Description
 
-I selected the topic from a list provided by the class instructors. My choice was self-referrential, if not a bit ironic, but with a reason. I wanted to make a reminder for myself and others in training to stay motivated in pursuit of success in the new field. I believe that with a good manual, no matter what the task is, failure is not an option. I should hope, then, that this one here is a good one.  
+I selected the topic from a list provided by the class instructors. My choice was self-referential, if not a bit ironic, but with a reason. I wanted to make a reminder for myself and others in training to stay motivated in pursuit of success in the new field. I believe that with a good manual, no matter what the task is, failure is not an option. I should hope, then, that this one here is a good one.  
 
 I decided to go for Markdown with Jekyll, and not Oxygen XML with DITA or MadCap Flare (the two other options available for the projects). With due respect to DITA and HATs, I much prefer the Docs as Code approach. I like the simplicity of raw text, markup, and code without extra layers of abstraction. Take this as an excuse all you want! ☺  
 
@@ -41,13 +41,13 @@ I used [Just the Docs](https://github.com/just-the-docs/just-the-docs/) theme, w
 * Modified search (the placeholder disappearing on focus, directories excluded from results, etc.).
 * New CSS classes and styling for various elements.  
 
-Much of this happens in `just-the-docs/_layouts` and `_sass` in my [forked repository](https://github.com/kacperbojakowski/just-the-docs). I tried to maintain the order and structure of the theme for future reuse (e.g. global reference values and attributes), but wasn't too strict at that. After all, it's just for my purposes.  
+Much of this happens in `just-the-docs/_layouts` and `_sass` in my [forked repository](https://github.com/kacperbojakowski/just-the-docs). I tried to maintain the order and structure of the theme for future reuse (e.g., global reference values and attributes), but wasn't too strict at that. After all, it's just for my purposes.  
 
-Other technicalities concerned graphic design, e.g. editing images, taking and preparing screenshots, making diagrams, etc.  
+Other technicalities concerned graphic design, e.g., editing images, taking and preparing screenshots, making diagrams, etc.  
 
 > 🖊️ **NOTE:** In places, the content is slightly "polluted" with HTML. This was done on purpose, to overcome Markdown's limitations. Still, the tags I used are purely presentational and you can delete them without losing functionality; the HTML-augmented elements will fall back to simple Markdown formatting. To find the "polluted" areas, search for `<!-- HTML CONTAMINATION-->` in the MD files. Be careful with regex, though – I used HTML in some code-block examples.  
 
-As for the language, there was no specific styleguide I followed other than aiming for General American instead of my favored British English (I remained faithful to [n-dashes over m-dashes](https://www.ox.ac.uk/sites/files/oxford/media_wysiwyg/University%20of%20Oxford%20Style%20Guide.pdf), though) I stuck to [Chicago](https://www.chicagomanualofstyle.org/home.html) for the title (lowercase all prepositions), but not for section headers; those I lowercased intentionally, just for the looks (I like it better; [GitHub](https://docs.github.com/en) does it, among others). The style is my regular informal/semi-formal mode: optimistic and humorous, but restrained for instructions; loosely inspired by [Atlassian](https://atlassian.design/content/writing-style).  
+As for the language, there was no specific style guide I followed other than aiming for General American instead of my favored British English (I remained faithful to [n-dashes over m-dashes](https://www.ox.ac.uk/sites/files/oxford/media_wysiwyg/University%20of%20Oxford%20Style%20Guide.pdf), though) I stuck to [Chicago](https://www.chicagomanualofstyle.org/home.html) for the title (lowercase all prepositions), but not for section headers; those I lowercased intentionally, just for the looks (I like it better; [GitHub](https://docs.github.com/en) does it, among others). The style is my regular informal/semi-formal mode: optimistic and humorous, but restrained for instructions; loosely inspired by [Atlassian](https://atlassian.design/content/writing-style).  
 
 The reason why I didn't use Plain English is *plain* – the persona. Translators know the language well and reading longer texts is their daily bread. Unrestrained, I enjoyed this project all the more!  
 

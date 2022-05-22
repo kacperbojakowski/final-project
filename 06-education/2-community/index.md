@@ -11,7 +11,7 @@ nav_order: 2
 
 Open-source projects are great to practice your skills and get in touch with the community. Even if you don't build a strong business network this way, you will surely build a nice portfolio.  
 
-Chek out these links to find projects that may need your contribution:
+Check out these links to find projects that may need your contribution:
 
 * [First Timers Only](https://www.firsttimersonly.com/)  
 * [Up For Grabs](https://up-for-grabs.net/#/)  
@@ -22,7 +22,7 @@ Alternatively, you can help develop a wiki. Look for a topic that interests you 
 
 Conferences are great for meeting tech comm professionals, and they can boost your resume too.  
 
-In Poland, the most popular is [Soap](https://soapconf.com/). It's held every year in Kraków by tech comm professionals to discuss anything that revolves around content: manuals, learning materials, graphics and videos, UX, publishing, design, and lastest trends in documentation. It's an international event that attracts contributors from around the world. Speakers and trainers include technical writers, information architects, designers, project managers, and the like (translators too!). The tickets can be expensive, but you can team up with your friends for a group discount.  
+In Poland, the most popular is [Soap](https://soapconf.com/). It's held every year in Kraków by tech comm professionals to discuss anything that revolves around content: manuals, learning materials, graphics and videos, UX, publishing, design, and latest trends in documentation. It's an international event that attracts contributors from around the world. Speakers and trainers include technical writers, information architects, designers, project managers, and the like (translators too!). The tickets can be expensive, but you can team up with your friends for a group discount.  
 
 Other known conferences include [Write the Docs](https://www.writethedocs.org/conf/), which takes place annually in Prague in Europe, in Portland in the US, and in Melbourne, Australia. There is also the German [Tekom](https://www.technical-communication.org/tekom/conferences): on language, IT, and media.    
 

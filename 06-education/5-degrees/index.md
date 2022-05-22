@@ -18,7 +18,7 @@ Job offers often list degrees as "nice-to-have"; common majors include:
 
 *Technical Writing* or *Technical Communication* are also common in countries where such programs are taught at BA or MA level (not in Poland).  
 
-As a translator, you likely studied translation, linguistics, or phililogy; this is a good start. A technical major would be even better.  
+As a translator, you likely studied translation, linguistics, or philology; this is a good start. A technical major would be even better.  
 
 If you don't have a degree, ignore this part entirely; focus on [courses](../3-online-courses/) and [certificates](../4-certificates/index.md/#itcqf) instead.  
 
@@ -61,7 +61,7 @@ Some of the benefits are:
   * HTML/CSS
   * DITA XML
   * Markdown
-* Learning about the trends, stanards, and practices:
+* Learning about the trends, standards, and practices:
   * Docs as Code,
   * Single sourcing and reuse,
   * Information architecture,

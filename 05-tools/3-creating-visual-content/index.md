@@ -14,7 +14,7 @@ nav_order: 3
 > ❝*Software is like sex: it's better when it's free.*❞   
 > — [Linus Torvalds](https://twitter.com/linus__torvalds/status/296333253571387392?lang=en)
 
-Jokes aside, software can be expensive, and you are not retraining as a graphic designer. At most, you should be able to create and edit simple visual content to be used in documentation (e.g. in your portfolio): screenshots, screen recordings, or basic diagrams. For your current purposes, free tools should be enough.  
+Jokes aside, software can be expensive, and you are not retraining as a graphic designer. At most, you should be able to create and edit simple visual content to be used in documentation (e.g., in your portfolio): screenshots, screen recordings, or basic diagrams. For your current purposes, free tools should be enough.  
 
 > 💡 **TIP:** Most paid tools offer time-limited trial license of up to 15 or 30 days; plan this time wisely and you might have working knowledge of a tool right before an interview.  
 
@@ -28,13 +28,13 @@ Alternatively, you could just press the `Print Screen` on your keyboard, and `CT
 
 If you are on Windows, you can record the screen with an in-built tool for gamers. 
 
-Simply open a program you would like to record (e.g. your browser) and press `Windows Key + G`. On the interface that pops up, click the "recording" icon:
+Simply open a program you would like to record (e.g., your browser) and press `Windows Key + G`. On the interface that pops up, click the "recording" icon:
 
 ![Screen recorder built into Windows](../../images/screen-capture.jpg)  
 
 Click it again once finished to save the recording. 
 
-This way you can quickly create a simple instructional video, e.g. on how to perform a task in some software.
+This way you can quickly create a simple instructional video, e.g., on how to perform a task in some software.
 
 > ❗ **IMPORTANT:** This function will not work in every program.
 

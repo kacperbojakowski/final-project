@@ -30,13 +30,13 @@ Don't overload the content; write concisely and include only the necessary infor
 
 ### Be original
 
-Recruiters skim through hundreds of resumes, so try to make yours stand out. Don't go over the top with flashy colors, but avoid popular templates and generators. Aim for elegant, minimalistic designs. You can use a template in [Canva](https://www.canva.com/resumes/) or even Word, and then modify it slightly, or create your own from scratch if you feel like it. Use this as an opportunity to hone your design skills – they [won't go to waste](../../04-learning-the-basics/3-content-design/index.md/#graphic-design).  
+Recruiters skim through hundreds of resumes, so try to make yours stand out. Don't go over the top with flashy colors and avoid popular templates and generators. Aim for elegant, minimalistic designs. You can use a template in [Canva](https://www.canva.com/resumes/) or even Word, and then modify it slightly, or create your own from scratch if you feel like it. Use this as an opportunity to hone your design skills – they [won't go to waste](../../04-learning-the-basics/3-content-design/index.md/#graphic-design).  
 
 Content-wise, you can add subtle cues that will make you more memorable. For example, if you have interesting hobbies (even better if they concern technology), you might include them. Hobby topics are great ice breakers; unless they are *"watching good movies"* – then they are *deal breakers* and it's better not to mention them.  
 
 Think about your job experience other than translating (if you have some) that could be relevant and eye-catching if well put. For instance, if you spoke at a conference or tutored someone, this can be an indicator of good communication and presentation skills.  
 
-You may start your resume with a [profile statement](https://www.careereducation.columbia.edu/resources/how-write-resume-profile-or-summary-statement). Write a few words about what kind of professional you are and *"why techwriting"*. It's a quick way to add some personality to your document.  
+You may start your resume with a [profile statement](https://www.careereducation.columbia.edu/resources/how-write-resume-profile-or-summary-statement). Write a few words about what kind of professional you are and *"why techwriting?"*. It's a quick way to add some personality to your document.  
 
 Speaking of personality, try to tailor your resume toward a specific employer. This can be as simple as bolding those skills and tools that were mentioned in that particular offer, or modifying your statement a bit.  
 
@@ -45,8 +45,8 @@ Speaking of personality, try to tailor your resume toward a specific employer. T
 To make a good resume, follow these tips:  
 
 * Write in English or in the language of the offer.
-* In word-processors (e.g. MS Word), use [proper formatting](../../05-tools/1-writing-and-text-editing/index.md/#wysiwyg).
-* Use simple and popular fonts (e.g. Arial).
+* In word-processors (e.g., MS Word), use [proper formatting](../../05-tools/1-writing-and-text-editing/index.md/#wysiwyg).
+* Use simple and popular fonts (e.g., Arial).
 * Font size: 11-12pt for normal text, 14-16pt for headers.
 * Avoid popular templates and generators.
 * Consider using software such as [Canva](https://www.canva.com/resumes/).
@@ -55,7 +55,7 @@ To make a good resume, follow these tips:
 * Include a profile statement; customize for a specific position.
 * Include a link to your [portfolio](../1-portfolio/).
 * Emphasize relevant skills and experience.
-* Double check for typos, mistakes, and inconsitencies.
+* Double check for typos, mistakes, and inconsistencies.
 
 > ❗ **IMPORTANT:** If a job offer lists specific requirements for the resume, they take precedence.  
 

@@ -9,7 +9,7 @@ nav_order: 1
 
 ### What to include?
 
-Anything that makes you proud and attests to your skills; for example:
+Anything that makes you proud and attests to your skills, for example:
 
 * Manuals, tutorials, and other documentation projects
 * Non-technical texts on field-related topics (articles, reviews)
@@ -103,7 +103,7 @@ First, you will need a hosting service to upload your resources. If you have a b
 
     Your page will go through three stages, each represented by one of these icons respectively:
 
-    ![Github icons](../../images/github-tutorial-icons.jpg)
+    ![GitHub icons](../../images/github-tutorial-icons.jpg)
 
 5. Click **github-pages** under the **Environments** tab on your repository page. If you don't see it, wait a few minutes and refresh the page.  
 
@@ -131,13 +131,13 @@ First, you will need a hosting service to upload your resources. If you have a b
 
 **Done!**  
 
-That's it! Now you can share your GitHub portfolio. The address is `https://github.com/` followed by your user name, e.g. `https://github.com/john-smith/`. 
+That's it! Now you can share your GitHub portfolio. The address is `https://github.com/` followed by your user name, e.g., `https://github.com/john-smith/`. 
 
 > 🖊️ **NOTE:** There are more ways to add your project to GitHub, for example via file upload on the GitHub website or through Git command line interface. The method described here is just very universal; it is a middle ground between difficulty and ability to conveniently add multiple files at once.  
 
 #### Troubleshooting
 
-**I renamed my file to "index.md"/"index.html" but it doesn't save with the new extension.**  
+**I renamed my file to "index.md"/"index.html", but it doesn't save with the new extension.**  
 
 Indeed, when you rename, for example, a TXT file to "index.md", you might simply end up with a TXT file named "index.md", as in `index.md.txt`. To make sure there are no problems, save your document via Visual Studio Code. Open your file in VSC, and then click *File* → *Save As...* and choose the right extension under *Save as type*.  
 
@@ -151,7 +151,7 @@ Wait a few more minutes and refresh the page. Pages can take a while to update. 
 
 **Can I include non-web formats, such as PDF documents, in my portfolio ?**
 
-Absolutely! To have PDF documents show up on a GitHub Page, place them in the same repository as your page and refer to them via Markdown's relative-path links, e.g. `[My PDF](myfile.pdf)`.  
+Absolutely! To have PDF documents show up on a GitHub Page, place them in the same repository as your page and refer to them via Markdown's relative-path links, e.g., `[My PDF](myfile.pdf)`.  
 
 ---
 
