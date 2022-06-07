@@ -7,7 +7,7 @@ nav_order: 1
 
 ## Writing and text editing
 
-[WYSIWYG⎹](#wysiwyg) [Source code editors⎹](#source-code-editors) [Markup languages](#markup-languages)
+[WYSIWYG⎹](#wysiwyg) [Source code editors⎹](#source-code-editors) [Markup languages](#markup-languages)  
 
 ### WYSIWYG  
 
@@ -57,8 +57,6 @@ After you install VSC, you may want to add the extension *Markdown All in One*. 
 To install, go to *Extensions* (top-left corner, icon with four squares) → click on the search box *Search Extensions...* → type: *Markdown All in One* → choose the extension from the list and click *Install*.  
 
 ### Markup languages
-
-#### Not programming languages
 
 Sometimes, for the uninitiated, any "code", i.e., a string of keyboard symbols other than letters and standard punctuation, looks like a "programming language". I might be preaching to the choir here, but let's make it clear: markups are not programming languages.  
 

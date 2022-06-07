@@ -5,17 +5,21 @@ nav_order: 11
 search_exclude: true
 ---
 
-# About
+## About
 
-## Author
+[Author⎹](#author) [Project⎹](#project) [References](#references)
+
+This is a meta-section with information about the guide. Here you will learn about the project: why I did it, how I did it, and what tools I used. You will also find the list of references further down this page.  
+
+Speaking of references, feel free to use, share, and quote this guide in parts or as a whole. I hope someone finds it useful for the purpose of learning, teaching, or preaching about the value of technical writing and documentation – now that would be cool! If you ever cite my scribbles, I'd appreciate a mention. Thanks!  
+
+### Author
 
 Hi, my name is [Kacper](https://github.com/kacperbojakowski) and I am the author of this guide. As of 2022, I am also on my way to retraining as a technical writer. I wrote this guide as my student project for the [postgraduate course](../06-education/5-degrees/index.md/#technical-communication-at-university) I am currently taking at Vistula University in Warsaw.  
 
 You can contact me at <kacperbojakowski@gmail.com>.  
 
-## Project
-
-### General information
+### Project
 
 **Original topic:** "Od zera do Tech Writera – jak się przebranżowić?"  
 **Persona:** Translator retraining as a technical writer     
@@ -24,8 +28,6 @@ You can contact me at <kacperbojakowski@gmail.com>.
 **Software:** [Visual Studio Code](https://code.visualstudio.com/), [GitHub Desktop](https://desktop.github.com/), [GIMP](https://www.gimp.org/), [Snagit](https://www.techsmith.com/screen-capture.html), [Diagrams.net](https://app.diagrams.net/), [Microsoft PowerPoint](https://www.microsoft.com/en-us/microsoft-365/powerpoint)  
 **Supervisor:** Dariusz Drezno  
 **Peer reviewer:** Michał Olender  
-
-### Description
 
 I selected the topic from a list provided by the class instructors. My choice was self-referential, if not a bit ironic, but with a reason. I wanted to make a reminder for myself and others in training to stay motivated in pursuit of success in the new field. I believe that with a good manual, no matter what the task is, failure is not an option. I should hope, then, that this one here is a good one.  
 
@@ -53,15 +55,15 @@ The reason why I didn't use Plain English is *plain* – the persona. Translator
 
 Thanks to Michał Olender for his peer review and tips on styling, structure, admonitions, etc. What I didn't manage to improve on (time constraints), I will surely keep in mind for the future.  
 
-## References
+### References
 
-#### Print sources
+**PRINT SOURCES**
 
 ITCQF. 2020. *Technical Communication Professional: Foundation Level*. Syllabus (ver. 2.0). [ITCQF](https://itcqf.org/wp-content/uploads/2020/06/ITCQF_Syllabus_v2_0Jun2020.pdf).   
 ITCQF. 2020. *The Value of Technical Writing*. [ITCQF](https://itcqf.org/wp-content/uploads/2021/02/ITCQF-The-Value-of-Techwriting.pdf).  
 Lindsell-Roberts, S. 2001. *Technical Writing for Dummies*. Hoboken: Wiley & Sons.  
 
-#### University materials
+**UNIVERSITY MATERIALS**
 
 Barrio Fierro, D. 2021-2022. *Techniki i narzędzia stosowane w dokumentacji technicznej*. Presentation slides. Warsaw: Vistula University.  
 Barrio Fierro, D. 2021-2022. *Praca z tekstem technicznym*. Presentation slides. Warsaw: Vistula University.  
@@ -72,14 +74,14 @@ Prus, T. 2021. *Podstawowe zagadnienia komunikacji technicznej*. Presentation sl
 Prus, T. 2022. *Praca z tekstem technicznym*. Presentation slides. Warsaw: Vistula University.  
 Górski, M. 2022. *Technical Writing at Google*. Lecture. Warsaw: Vistula University (23 April 2022).  
 
-#### Courses
+**COURSES**
 
 Brandt, A. 2021. *Agile i Scrum od podstaw*. MOOC course. [Udemy](https://www.udemy.com/course/agile-i-scrum-od-podstaw/).    
 Prus, T. 2021. *ITCQF Certified Technical Communication Professional: Foundation Level*. [ITtraining](http://edu.ittraining.pl/szkolenie/ITCQF_Poziom_Podstawowy) (2-3 August 2021).  
 Róg, G. 2018. *HTML i CSS - poznaj podstawy i zacznij programować!*. MOOC course. [Udemy](https://www.udemy.com/course/kurs-html-i-css-od-podstaw/).  
 Szuszkiewicz, A. 2021. *GIT od podstaw dla każdego*. MOOC course. [Udemy](https://www.udemy.com/course/git-od-podstaw-dla-kazdego/).  
 
-#### Graphics
+**GRAPHICS**
 
 Home page header: [ClearVoice](https://www.clearvoice.com/blog/niche-freelancers-tech-writers/) (modified)   
 Section headers: [Unsplash](https://unsplash.com/) (modified)  
@@ -88,7 +90,7 @@ ITCQF banner: [ITCQF](https://itcqf.org/wp-content/uploads/2021/02/ITCQF-The-Val
 Engineer image: [Vecteezy](https://www.vecteezy.com/) (by Iyi Kon)  
 Screenshots: own, unless stated otherwise  
 
-#### Online sources
+**ONLINE SOURCES**
 
 <http://public2.brighttalk.com/resource/core/217857/the-state-of-technical-communication_474463.pdf>  
 <http://techwriter.pl/cv-najwazniejszy-dokument-tech-writera/>  
