@@ -10,7 +10,7 @@ nav_order: 1
 
 ## Introduction
 
-Welcome to the guide on how to retrain from translation to technical writing. Changing careers can be daunting, but don't let the fear hold you down. Translators make great documentation writers, and you certainly won't be the first one to have taken this path. As a language professional, you already have skills that should give you a head start. All you need is some technical background and basic understanding of the field. In this guide, you will learn about:
+Welcome to the guide on how to retrain from translation to technical writing. Changing careers can be daunting, but don't let fear hold you back! Translators make great documentation writers, and you certainly won't be the first to take this path. As a language professional, you already have skills that should give you a solid head start. All you need is some technical background and basic understanding of the field. In this guide, you will learn about:
 
 * Career opportunities in technical communication
 * Basic concepts and knowledge required in the field
@@ -21,23 +21,23 @@ You will also learn how to build your portfolio, how to prepare your resume, and
 
 ### How to use this guide
 
-The guide is divided into sections: larger chunks of content, and topics: smaller and more specific subchapters. You can access every section and topic at any time from the navigation bar or the [table of contents](#table-of-contents) further down on this page.  
+The guide is divided into *sections*: larger chunks of content, and *topics*: smaller and more specific subchapters. You can access every section and topic at any time from the navigation bar or from the [table of contents](#table-of-contents) further down on this page.  
 
-The [Overview](02-overview/index.md) briefly describes what technical communication is and what to expect as a beginner. [Planning](03-planning-your-retraining/index.md) will help you strategize your training according to your current knowledge and experience. [Basics](04-learning-the-basics/index.md) cover a few fundamental concepts you should be familiar with for an easier start. For a more practical perspective, refer to [Tools](05-tools/index.md), where you will learn about the software. [Education](06-education/index.md) should help you decide which courses and certificates are worth your time. Finally, in the [Employment](07-employment/index.md) section, you will learn how to showcase your skills and how to prepare for the interview.  
+The [Overview](02-overview/index.md) briefly describes what technical communication is and what to expect as a beginner in the field. [Planning](03-planning-your-retraining/index.md) will help you strategize your training according to your current knowledge and experience. [Basics](04-learning-the-basics/index.md) cover a few fundamental concepts you should be familiar with for an easier start. For a more practical perspective, refer to [Tools](05-tools/index.md), where you will learn about the software. [Education](06-education/index.md) should help you decide which courses and certificates are worth your time. Finally, in the [Employment](07-employment/index.md) section, you will learn how to showcase your skills and prepare for an interview.  
 
-Refer to the [Glossary](09-glossary/index.md) whenever any term confuses you. Finally, in the [Links](10-links/index.md) section, you will find addresses of all external resources (excluding references) linked to in this guide; they are divided according to type and listed in alphabetical order.
+Refer to the [Glossary](09-glossary/index.md) if technical jargon confuses you. In the [Links](10-links/index.md) section, you will find all the websites and resources hyperlinked throughout this guide.
 
-You can read the guide from beginning to end by clicking "Next section/topic" at the bottom of each page, or you can jump straight to whatever interests you and skip the rest.  
+You can go through the pages in order by clicking "Next section/topic" at the bottom, or you can jump straight to whatever interests you and skip the rest. Works either way!  
 
 > 💡 **TIP:** Whenever an image is rendered too small in your browser, right-click it and select *Open image in new tab* to view in full size.  
 
-> 💡 **TIP:** When viewing on a mobile device, remember that you can slide your finger on tables to scroll the content horizontally.  
+> 💡 **TIP:** When viewing the mobile version, remember that you can slide your finger on tables to scroll their content horizontally (wide tables get squished on smaller screens).  
 
 <!-- HTML CONTAMINATION -->
 
 <details>
 <summary><span>❕ Disclaimer  </span></summary>
-This guide was created in 2022 and adapted to the Polish job market at the time. The author does not guarantee that the content will be updated or adjusted for other locations. This means that certain practices, tools, and realities here described might have changed since the initial publication. As for international readers, some topics (e.g., the parts on education and employment) may be irrelevant due to regional differences; however, those readers may still be able to find viable alternatives in their location.
+This guide was created in 2022 and adapted to the Polish job market at the time. The author does not guarantee that the website will receive updates or that the content will be adjusted for other locations. Thus, certain practices, tools, and realities described in this guide might have changed since the initial publication date. For visitors outside of Poland, some information (especially chapters on education and employment) may be irrelevant due to regional differences. Hopefully, those readers will be able to find viable alternatives and similar solutions within their area.
 </details>  
 
 ## Table of contents  
