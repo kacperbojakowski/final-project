@@ -33,7 +33,7 @@ I selected the topic from a list provided by the class instructors. My choice wa
 
 I decided to go for Markdown with Jekyll, and not Oxygen XML with DITA or MadCap Flare (the two other options available for the projects). With due respect to DITA and HATs, I much prefer the Docs as Code approach. I like the simplicity of raw text, markup, and code without extra layers of abstraction. Take this as an excuse all you want! ☺  
 
-I used [Just the Docs](https://github.com/just-the-docs/just-the-docs/) theme, which I modified to my needs. The changes include:
+I used [Patrick Marsceill's](https://github.com/pmarsceill) *[Just the Docs](https://github.com/just-the-docs/just-the-docs/)* theme, which I modified to my needs. The changes include:
 
 * Page layout, spacing, colors, typography, etc.
 * Modified breadcrumbs to match the structure (mini TOC → Topics).

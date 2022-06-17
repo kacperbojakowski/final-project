@@ -15,7 +15,7 @@ Especially if the tin features meal prep instructions!
 
 [ITCQF](https://itcqf.org/) describes technical communication as a field that  
 
-> ❝*[...] combines a range of disciplines that work together to efficiently transfer specialized information to those who need it to accomplish a defined task or goal.[^1]*❞
+> ❝*[...] combines a range of disciplines that work together to efficiently transfer specialized information to those who need it to accomplish a defined task or goal.*❞[^1]
 
 A translator needn't be tutored on *the functions of language* and on how information is transferred. In short: information doesn't have to be written; and yet, people by default make assumptions based on [*that which is seen*](https://en.wikipedia.org/wiki/Parable_of_the_broken_window), and not *that which isn't.* Hence, even though tech comm professionals communicate *a lot* outside of writing, their job is mostly associated with creating documentation and document-related content.  
 
@@ -91,7 +91,7 @@ Sounds familiar, right? Only that this time there's technology. There's coding. 
 
 
 [^1]: [ITCQF Syllabus](https://itcqf.org/wp-content/uploads/2020/06/ITCQF_Syllabus_v2_0Jun2020.pdf) (ver. 2.0, 2020), p. 7.
-[^2]: Again, as suggested by [ITCQF](https://itcqf.org/wp-content/uploads/2020/06/ITCQF_Syllabus_v2_0Jun2020.pdf); ibid, pp. 8–9.
+[^2]: Ibid, pp. 8–9.
 
 ---
 
