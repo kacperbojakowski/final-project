@@ -51,7 +51,6 @@ Jekyll is natively supported by GitHub Pages, which we will discuss later when w
 
 Static site generators generally have a simple syntax designed towards implementation of the most common functionalities that you, the user, could think of when deploying a page. A lot of these funtionalities are turned on or off by simple *true/false* statements in special configuration files.  
 
-
 ---
 
 *Next topic: [Creating visual content](../3-creating-visual-content/)*
