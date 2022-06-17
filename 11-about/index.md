@@ -51,9 +51,9 @@ Other technicalities concerned graphic design, e.g., editing images, taking and 
 
 As for the language, there was no specific style guide I followed other than aiming for General American instead of my favored British English (I remained faithful to [n-dashes over m-dashes](https://www.ox.ac.uk/sites/files/oxford/media_wysiwyg/University%20of%20Oxford%20Style%20Guide.pdf), though) I stuck to [Chicago](https://www.chicagomanualofstyle.org/home.html) for the title (lowercase all prepositions), but not for section headers; those I lowercased intentionally, just for the looks (I like it better; [GitHub](https://docs.github.com/en) does it, among others). The style is my regular informal/semi-formal mode: optimistic and humorous, but restrained for instructions; loosely inspired by [Atlassian](https://atlassian.design/content/writing-style).  
 
-The reason why I didn't use Plain English is *plain* – the persona. Translators know the language well and reading longer texts is their daily bread. Unrestrained, I enjoyed this project all the more!  
+The reason why I didn't use Plain English was equally plain – the persona. Translators know the language well, and reading longer texts is their daily bread. Unrestrained, I enjoyed this project all the more.  
 
-Thanks to Michał Olender for his peer review and tips on styling, structure, admonitions, etc. What I didn't manage to improve on (time constraints), I will surely keep in mind for the future.  
+Thanks to Michał Olender for his peer review and tips on formatting, structure, admonitions, and other things that greatly contributed to the final result.  
 
 ### References
 
@@ -83,11 +83,11 @@ Szuszkiewicz, A. 2021. *GIT od podstaw dla każdego*. MOOC course. [Udemy](https
 
 **GRAPHICS**
 
-Home page header: [ClearVoice](https://www.clearvoice.com/blog/niche-freelancers-tech-writers/) (modified)   
+Home page header: [ClearVoice](https://www.clearvoice.com/blog/niche-freelancers-tech-writers/) (modified)  
 Section headers: [Unsplash](https://unsplash.com/) (modified)  
 Movie photo: *Forrest Gump* (1994), dir. R. Zemeckis  
-ITCQF banner: [ITCQF](https://itcqf.org/wp-content/uploads/2021/02/ITCQF-The-Value-of-Techwriting.pdf)
-Engineer image: [Vecteezy](https://www.vecteezy.com/) (by Iyi Kon)  
+ITCQF banner: [ITCQF](https://itcqf.org/wp-content/uploads/2021/02/ITCQF-The-Value-of-Techwriting.pdf)  
+Engineer image: [Vecteezy](https://www.vecteezy.com/) (author: Iyi Kon)  
 Screenshots: own, unless stated otherwise  
 
 **ONLINE SOURCES**
