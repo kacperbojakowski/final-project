@@ -59,7 +59,7 @@ This exercise shouldn't take too long, and it will give you a rough idea whether
 
 Should you take this path, don't forget that you are *changing careers*, not dying of hunger in search of a job (*hopefully!*). You don't have to put all your eggs in one basket. If you feel you need more time for training, take advantage of the flexibility translating gives you. Consider taking on fewer projects or moving to freelancing if you aren't self-employed. Try not to burn bridges; have something to get back to in case technical writing doesn't work out.  
 
-Take some time to plan your training. Set short- (e.g., learning Markdown) and long-term goals (e.g., finishing a [degree](../../06-education/4-degrees/)) with more-or-less specific deadlines. Setting dates will help you track your progress, and the dopamine spike you'll get from passing a milestone will be a great motivation booster.  
+Take some time to plan your training. Set short- (e.g., learning Markdown) and long-term goals (e.g., finishing a [degree](../../06-education/5-degrees/index.md) with more-or-less specific deadlines. Setting dates will help you track your progress, and the dopamine spike you'll get from passing a milestone will be a great motivation booster.  
 
 ---
 

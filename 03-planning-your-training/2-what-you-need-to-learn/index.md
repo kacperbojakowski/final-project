@@ -26,7 +26,7 @@ You'll need IT knowledge for software and API documentation, but it will help re
 
 For other products, you may still use version control systems, code editors, and markup languages. Writing in authoring tools involves dealing with variables, conditionals, attributes, values... all your typical CS jargon.  
 
-Don't worry, though: it sounds much worse than it is. You will learn a lot as a side effect of HTML and other [tools](../../05-tools/) on our list. Just stay curious and don't neglect the theory. Those "textbook definitions" may come in handy when least expected; for example, when your recruiter asks you to explain [some concept](../../07-employment/4-application/index.md/#tasks).  
+Don't worry, though: it sounds much worse than it is. You will learn a lot as a side effect of HTML and other [tools](../../05-tools/) on our list. Just stay curious and don't neglect the theory. Those "textbook definitions" may come in handy when least expected; for example, when your recruiter asks you to explain [some concept](../../07-employment/3-application/#tasks).  
 
 > ❝*Theory is when you know something, but it doesn’t work. Practice is when something works, but you don’t know why. Programmers combine theory and practice: Nothing works and they don’t know why.*❞  
 > — [Programming Wisdom](https://twitter.com/codewisdom/status/967044888285065216?lang=en)  

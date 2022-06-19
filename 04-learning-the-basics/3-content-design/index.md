@@ -83,7 +83,7 @@ Even things as simple as screenshots require hours of consideration for sensible
 ![Simplified UI](../../images/simplified-ui.png)  
 *Screenshot before and after Simplified UI transformation.* | Image source: [Techsmith](https://www.techsmith.com/blog/how-to-make-user-manual/)
 
-The bottom line is: graphic designers are not replacing technical writers, but technical writers need to adapt. This doesn't mean you must learn how to draw, but you should follow latest trends and learn relevant [tools](../../05-tools/3-creating-visual-content/). As for *drawing*, technical writers' finest art is still *drawing [their SME's attention](../../04-learning-the-basics/4-technical-writer-in-search-of-input/index.md/#how-to-deal-with-an-unresponsive-sme)*.  
+The bottom line is: graphic designers are not replacing technical writers, but technical writers need to adapt. This doesn't mean you must learn how to draw, but you should follow latest trends and learn relevant [tools](../../05-tools/3-creating-visual-content/). As for drawing, technical writers' finest art is still drawing [their SME's attention](../../04-learning-the-basics/2-in-search-of-input/#how-to-deal-with-an-unresponsive-sme).  
 
 ### User experience
 

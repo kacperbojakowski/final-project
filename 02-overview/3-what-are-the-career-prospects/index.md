@@ -27,7 +27,7 @@ Technical writing may be changing, but only to involve more human interaction, p
 
 ### Salary
 
-The salary survey conducted in 2021 by [Techwriter.pl]([techwriter.pl](http://techwriter.pl/wyniki-badania-plac-w-komunikacji-technicznej-2021/)) shows the following results:  
+The salary survey conducted in 2021 by [Techwriter.pl](http://techwriter.pl/wyniki-badania-plac-w-komunikacji-technicznej-2021/) shows the following results:  
 
 |           | Lowest   | Highest   | Average  | Median   |
 |-----------|----------|-----------|----------|----------|

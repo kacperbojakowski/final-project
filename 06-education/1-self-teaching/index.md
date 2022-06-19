@@ -101,7 +101,7 @@ If you prefer a more traditional approach, there are books. Popular titles inclu
 
 You can start with a short manual like [the one](../../02-overview/4-is-technical-writing-for-me/index.md/#try-before-you-buy) suggested earlier.
 
-Once you get into gear, move on to longer projects. Try different [types of deliverables](../../04-learning-the-basics/2-types-of-deliverables/) and writing something longer than one page. Always think about your *persona* – the target audience; adjust your language accordingly (maybe [STE](../../04-learning-the-basics/2-content-design/index.md/#ste-and-plain-english) this time?).  
+Once you get into gear, move on to longer projects. Try different [types of deliverables](../../04-learning-the-basics/1-types-of-deliverables/index.md) and writing something longer than one page. Always think about your *persona* – the target audience; adjust your language accordingly (maybe [STE](../../04-learning-the-basics/3-content-design/#ste-and-plain-english) this time?).  
 
 Write using different tools. Consider starting with this setup:
 
