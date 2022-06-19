@@ -11,7 +11,7 @@ nav_order: 4
 
 ### Docs as Code
 
-As the name suggests, Docs as Code is a philosophy of writing documentation in the way software developers write code. This involves using the same tools and working in the same methodologies as programmers. Practices within Docs as Code include:
+As the name suggests, Docs as Code is a philosophy of writing documentation in the way that software developers write code. This involves using the same tools and working in the same methodologies as programmers. Practices within Docs as Code include:
 
 * Writing documentation in [source code editors](../../05-tools/1-writing-and-text-editing/index.md/#source-code-editors)
 * Writing in [plain text](../../05-tools/1-writing-and-text-editing/index.md/#markup-languages) document formats
@@ -19,19 +19,19 @@ As the name suggests, Docs as Code is a philosophy of writing documentation in t
 * Following CI/CD workflow[^1]
 * Tracking changes and integrating updates with Version Control Systems (e.g., [Git](../../05-tools/4-facilitating-workflow/index.md/#version-control-systems))
 * Using issue-tracking systems (for tracking bugs and fixes; e.g., [Jira](../../05-tools/4-facilitating-workflow/index.md/#project-management))
-* Performing Code Review (i.e., programmer's peer review)
+* Performing Code Review (i.e., a programmer's *peer review*)
 * Having documents undergo automated tests (e.g., to check for broken links)
 * Working in agile methodologies (e.g., completing tasks in [sprints](../../09-glossary/index.md/#s))
 
-Docs as Code helps to reduce distance between technical writers and developers by bringing writers closer to the code, and programmers closer to the content.  
+Docs as Code practices help to reduce distance between technical writers and developers by bringing writers closer to the code, and programmers closer to the content.  
 
 ### Single sourcing
 
-Single sourcing is a practice where the content of a document (the source) is written once and then stored separately from the formatting layer. This allows the content to be published in different output formats all at once, without rewriting any text or adjusting the formatting by hand. 
+Single sourcing is a practice where the content of a document (the source) is written once and then stored separately from the formatting layer. This allows for publishing documents in different output formats all at once, without rewriting any text or adjusting the formatting by hand. 
 
-With tools such as [MadCap Flare](../../05-tools/2-content-management-and-publishing/index.md/#help-authoring-tools) you can write a document and later, with a few clicks, have it formatted through transformation algorithms into a properly-styled PDF document, DOC file, HTML site, you name it. The source file is "raw" content; when exported, it receives an adequate layer of formatting for each type of output and gets published in multiple formats.
+With tools such as [MadCap Flare](../../05-tools/2-content-management-and-publishing/index.md/#help-authoring-tools) you can write a document and later, with a few clicks, have it formatted through transformation algorithms into a properly-styled PDF document, DOC file, HTML site, you name it. The source file is "raw" content; when exported, it receives a layer of formatting for each type of output, and then it gets published in the selected output formats all at once.
 
-In addition, if you need to change something in your documentation, you will edit the source file only, and the content will get automatically updated for all your target outputs.  
+In addition, if you need to change something in your documentation, you will edit the source file only, republish the builds with one click, and the content will get automatically updated for all your target outputs.  
 
 ### Reuse
 

@@ -13,7 +13,7 @@ nav_order: 2
 
 To carefully plan and design documentation, you need to know things such as:
 
-* Target audience (*persona*)
+* Target audience (the *persona*)
 * Intended types of deliverables
 * Purpose and scope of deliverables
 * Intended publishing formats
@@ -26,13 +26,13 @@ To carefully plan and design documentation, you need to know things such as:
 
 ### How to get the information you need?
 
-For document-related information (i.e., target audience, publishing, design) you will refer to previous and current project proposals, design specifications, style guides, etc. You will also cooperate with UX experts, graphic designers, and translators, among others.  
+For document-related information (i.e., target audience, publishing, design) you will refer to previous and current project proposals, design specifications, style guides, etc. You will also cooperate with UX experts, graphic designers, or translators, among others.  
 
-You will learn about the documented subject from: previous documentation, product descriptions, product specifications, prototypes, tutorials, and so on.  
+You will learn about the documented subject from previous documentation, product descriptions, product specifications, prototypes, tutorials, and so on.  
 
 For technical information, you will rely on engineers, developers, testers, product owners, and other **subject matter experts**.  
 
-SME's input is crucial for your project. Unfortunately, they are *terribly busy* developing the product, so their time (and patience) is limited. This can, at times, lead to tensions between you and the experts. As a communicator, you should identify such problems quickly and address them before things go downhill.  
+SMEs' input is crucial for your project. Unfortunately, they are *terribly busy* developing the product, so their time (and patience) is limited. This can, at times, lead to tensions between you and the experts. As a technical communicator, you should identify such problems quickly and address them before things go downhill.  
 
 ### How to deal with an unresponsive SME?
 

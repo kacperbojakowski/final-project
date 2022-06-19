@@ -11,9 +11,13 @@ nav_order: 4
 
 ### Version Control Systems
 
-Version Control Systems (VCS) are systems designed for tracking and controlling changes in software source code – though not only! You can just as well use them to track changes in any other type of content within your documentation.  
+Version Control Systems (VCS) are systems designed for tracking and controlling changes in software source code. However, you can just as well use them to track changes in other types of content, such as text and images in your documents.  
 
-They also provide the functionality of *branches*, i.e., developers can work independently on various aspects of the software, e.g., you might be implementing one feature, and your colleague, at the same time, might be working on something else. Then, both of you *commit* (send to the server) your work progress and *merge* it into the main branch for the project; thus, your work is aligned and integrated into the product. In case there are *conflicts* between your contributions, you will solve them manually (just don't solve other conflicts with your colleagues *manually* as well ☺).  
+VCSs provide the functionality of *branches*, i.e., developers can work independently on various aspects of the software at the same time, and then they can integrate their individual contributions. Consider the following example.
+
+You are working on a new feature. At the same time, your colleague is working on another, unrelated feature for the same app. Then, at some point, you *commit* (send to the server) your progress and *merge* it with the main branch. Your colleague commits his changes too, but at another time; that's OK – you don't have to synchronize! You both commited to the main branch at some point, so your individual contributions are now integrated into the product. Your app has two new features!  
+
+Now, I said you didn't have to synchronize, but it's only part of the truth. You still need to communicate! The features in our scenario were unrelated, but sometimes you and your colleagues might be working on the same part of code (or documentation), and then there can be *conflicts* between your contributions. When this happens, Git will show you and your colleague where the problem occurs. Then you can discuss the best option and solve the problem manually (just don't solve other conflicts with your colleagues *manually* as well ☺).  
 
 ![Git workflow](../../images/git-workflow.png)  
 *A simplified representation of Git workflow.* 
@@ -41,7 +45,7 @@ Other than that, you can just as well use a more friendly, graphic user interfac
 ![GitHub Desktop](../../images/github-desktop.png)
 *Phew... Now THIS looks much more approachable, thanks.*
 
-It is *crucial* for you as a beginner in tech writing to at least get the very basics of Git (preferably; or other VCS) down. You might need it not only for the [Docs as Code](../../04-learning-the-basics/4-standards-and-practices/index.md/#docs-as-code) approach!  
+Git is the bread and butter of modern technical writing and it is crucial that you learn at least the bare minimum. Unless you want to work in MS Word only (*no, you don't*), you will use VCS sooner or later. You don't even have to follow [Docs as Code](../../04-learning-the-basics/4-standards-and-practices/#docs-as-code) to see that happen; [HATs](../2-content-management-and-publishing/#help-authoring-tools) can use version control too!  
 
 **Tips for beginners:**
 

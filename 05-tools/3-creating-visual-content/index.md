@@ -14,7 +14,7 @@ nav_order: 3
 > ❝*Software is like sex: it's better when it's free.*❞   
 > — [Linus Torvalds](https://twitter.com/linus__torvalds/status/296333253571387392?lang=en)
 
-Jokes aside, software can be expensive, and you are not retraining as a graphic designer. At most, you should be able to create and edit simple visual content to be used in documentation (e.g., in your portfolio): screenshots, screen recordings, or basic diagrams. For your current purposes, free tools should be enough.  
+Jokes aside, software can be expensive, and you are not retraining as a graphic designer. At most, you should be able to create and edit simple visual content to be used in documentation (e.g., in your portfolio): screenshots, screen recordings, or basic diagrams. For your current needs, free tools should suffice.  
 
 > 💡 **TIP:** Most paid tools offer time-limited trial license of up to 15 or 30 days; plan this time wisely and you might have working knowledge of a tool right before an interview.  
 

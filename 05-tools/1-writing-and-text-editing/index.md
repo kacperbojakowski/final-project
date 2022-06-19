@@ -40,7 +40,7 @@ As a translator, you have probably used MS Word or its alternatives (LibreOffice
 
 Well-settled in the IT industry, source code editors do exactly what the name suggests: they help software developers write and edit computer code. They usually come with extensive configuration options. These can include anything from UI skins through VCS-integrated terminals to various task-specific plugins. Source code editors support tabs for working with multiple documents. They can also recognize programming and markup language syntaxes.  
 
-Technical writers use code editors especially within [Docs as Code](../../04-learning-the-basics/3-standards-and-practices/index.md/#docs-as-code). Regardless of your future workflow, though, they will still be useful for learning Markdown, HTML, and basic coding. As long as you don't fiddle with too many options, source code editors are fairly intuitive and easy to grasp. Just think of your editor as an overgrown, steroid-fueled Notepad (which it basically is).  
+Technical writers use code editors especially within [Docs as Code](../../04-learning-the-basics/4-standards-and-practices/#docs-as-code). Regardless of your future workflow, though, they will still be useful for learning Markdown, HTML, and basic coding. As long as you don't fiddle with too many options, source code editors are fairly intuitive and easy to grasp. Just think of your editor as an overgrown, steroid-fueled Notepad (which it basically is).  
 
 > 💡 **TIP:** Code editors, unlike word processors, don't come with as many pre-installed amenities (e.g., spell-checkers). As a result, some writers end up using hyphens in place of dashes (Word natively changes space-separated hyphens into dashes). Remember these keyboard shortcuts to write dashes manually:
 
@@ -74,7 +74,7 @@ These blocks are like bones in a website's skeleton. They can be "fleshed out" w
 
 The former provide "the skin", i.e., the presentational layer: layout, colors, fonts, etc. The latter are "the muscles": they make the bones move, i.e., prompt the content to behave in a certain way (e.g., web applications).  
 
-There are also server-side languages ("the brain?"), such as PHP, responsible for the logic behind the website-server communication. This is, of course, a simplification.  
+There are also server-side languages ("the brain?" ☺), such as PHP, responsible for the logic behind the website-server communication. This is, of course, a simplification.  
 
 Take a look at this HTML code:  
 
@@ -117,7 +117,7 @@ This is the aforementioned CSS (Cascading Style Sheets), which usually does not 
 
 #### Markdown
 
-OK, so WYSIWYG is not cool, code editors look very *technical*, and online documentation is the future (and present). Does this mean that from now on you should wrap your paragraphs `<p>like this</p>`, and put `<br>` at the end of each line? No way, programmers are [too lazy](https://thethreevirtues.com/) for that – and they come to the rescue if you are too.    
+OK, so WYSIWYG is not cool, code editors look very *technical*, and online documentation is the future. Does this mean that from now on you should wrap your paragraphs `<p>like this</p>`, and put `<br>` at the end of each line? No way, programmers are [too lazy](https://thethreevirtues.com/) for that – and they come to the rescue if you are too.    
 
 In 2004, John Gruber and Aaron Swartz created [Markdown](https://daringfireball.net/projects/markdown/) – a lightweight markup that is both easy to write in and pleasant to read. See for yourself:
 
@@ -157,7 +157,7 @@ This unlimited *expresiveness* of XML is what sets it apart; in theory, you can 
 
 XML content is meant to be processed by software to produce various results. It's great for separating content from formatting: you write it once and then instruct your publishing tool to transform it to various outputs (*[Single sourcing](../../04-learning-the-basics/4-standards-and-practices/index.md/#single-sourcing)*).
 
-The problem with XML is that you will eventually have to learn some standard to follow (e.g., [DITA](../../04-learning-the-basics/4-standards-and-practices/index.md/#dita)), and that for bigger projects you might need paid tools such as [Oxygen XML](https://www.oxygenxml.com/) or [Adobe FrameMaker](https://www.adobe.com/products/framemaker.html).
+The problem with XML is that you will eventually have to learn a specialized standard to follow (e.g., [DITA](../../04-learning-the-basics/4-standards-and-practices/index.md/#dita)), and that for bigger projects you might need paid tools such as [Oxygen XML](https://www.oxygenxml.com/) or [Adobe FrameMaker](https://www.adobe.com/products/framemaker.html).
 
 #### Markup comparison table
 
