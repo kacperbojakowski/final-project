@@ -8,7 +8,7 @@ nav_order: 10
 
 # Links
 
-Here is a list of all external website links that appeared in this guide (excluding references), divided according to type and in alphabetical order.  
+Here is a list of all external website links that appeared in this guide (excluding references), categorized and in alphabetical order.  
 
 #### Blogs and podcasts
 
