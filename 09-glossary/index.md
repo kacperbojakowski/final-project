@@ -28,9 +28,9 @@ Here is a list of various technical terms and abbreviations (in parentheses) tha
 
 ###### C
 
-**Content management system (CMS)** – software for managing digital content; it typically allows users to manage content at a document level. | *See also: [CCMS](#c) |  
+**Content management system (CMS)** – software for managing digital content; it typically allows users to manage content at a document level. | *See also: [CCMS](#c)* |  
 
-**Component content management system (CCMS)** – a [content management system](#c) that allows for managing content at a component level. | *See also: [CMS](#c) |  
+**Component content management system (CCMS)** – a [content management system](#c) that allows for managing content at a component level. | *See also: [CMS](#c)* |  
 
 **Cascading Style Sheets (CSS)** – a style sheet language that provides presentational elements to an [HTML](#h) content; it is responsible for the looks of a web page. |  
 
