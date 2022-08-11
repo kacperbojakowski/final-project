@@ -13,7 +13,7 @@ nav_order: 4
 
 [ITCQF](https://itcqf.org/), or International Technical Communication Qualifications Foundation (yes, just stick with the abbreviation), is an organization founded in Kraków, in 2014, by a number of tech comm speciaists. Their mission is to:  
 
-> ❝*[...] promote the value of technical communication [...], help technical communicators to be more efficient [...], and to continually advance our knowledge base by incorporating the best industry practices and the most innovative research [...]*❞[^1] 
+> ❝*promote the value of technical communication…, help technical communicators to be more efficient…, and to continually advance our knowledge base by incorporating the best industry practices and the most innovative research…*❞[^1] 
 
 and they are doing great at that! Some of the names behind ITCQF include people from [Techwriter.pl](http://techwriter.pl/) and initiators of the first tech comm [university program](../5-degrees/index.md/#technical-communication-at-university) in Poland. With more people interested in content every year, and technical writers' salaries showing a [growing trend](http://techwriter.pl/wyniki-badania-plac-w-komunikacji-technicznej-2021/) – their efforts seem to pay off.  
 
