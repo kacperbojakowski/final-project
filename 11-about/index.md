@@ -57,14 +57,12 @@ Thanks to Michał Olender for his review and tips on formatting, structure, admo
 
 ### References
 
-**PRINT SOURCES**
-
+**PRINT SOURCES**  
 ITCQF. 2020. *Technical Communication Professional: Foundation Level*. Syllabus (ver. 2.0). [ITCQF](https://itcqf.org/wp-content/uploads/2020/06/ITCQF_Syllabus_v2_0Jun2020.pdf).   
 ITCQF. 2020. *The Value of Technical Writing*. [ITCQF](https://itcqf.org/wp-content/uploads/2021/02/ITCQF-The-Value-of-Techwriting.pdf).  
 Lindsell-Roberts, S. 2001. *Technical Writing for Dummies*. Hoboken: Wiley & Sons.  
 
-**UNIVERSITY MATERIALS**
-
+**UNIVERSITY MATERIALS**  
 Barrio Fierro, D. 2021-2022. *Techniki i narzędzia stosowane w dokumentacji technicznej*. Presentation slides. Warsaw: Vistula University.  
 Barrio Fierro, D. 2021-2022. *Praca z tekstem technicznym*. Presentation slides. Warsaw: Vistula University.  
 Barrio Fierro, D. 2021-2022. *Podstawowe technologie komunikacji technicznej*. Presentation slides. Warsaw: Vistula University.  
@@ -74,15 +72,13 @@ Prus, T. 2021. *Podstawowe zagadnienia komunikacji technicznej*. Presentation sl
 Prus, T. 2022. *Praca z tekstem technicznym*. Presentation slides. Warsaw: Vistula University.  
 Górski, M. 2022. *Technical Writing at Google*. Lecture. Warsaw: Vistula University (23 April 2022).  
 
-**COURSES**
-
+**COURSES**  
 Brandt, A. 2021. *Agile i Scrum od podstaw*. MOOC course. [Udemy](https://www.udemy.com/course/agile-i-scrum-od-podstaw/).    
 Prus, T. 2021. *ITCQF Certified Technical Communication Professional: Foundation Level*. [ITtraining](http://edu.ittraining.pl/szkolenie/ITCQF_Poziom_Podstawowy) (2-3 August 2021).  
 Róg, G. 2018. *HTML i CSS - poznaj podstawy i zacznij programować!*. MOOC course. [Udemy](https://www.udemy.com/course/kurs-html-i-css-od-podstaw/).  
 Szuszkiewicz, A. 2021. *GIT od podstaw dla każdego*. MOOC course. [Udemy](https://www.udemy.com/course/git-od-podstaw-dla-kazdego/).  
 
-**GRAPHICS**
-
+**GRAPHICS**  
 Home page header: [ClearVoice](https://www.clearvoice.com/blog/niche-freelancers-tech-writers/) (modified)  
 Section headers: [Unsplash](https://unsplash.com/) (modified)  
 Movie photo: *Forrest Gump* (1994), dir. R. Zemeckis  
@@ -90,8 +86,7 @@ ITCQF banner: [ITCQF](https://itcqf.org/wp-content/uploads/2021/02/ITCQF-The-Val
 Engineer image: [Vecteezy](https://www.vecteezy.com/) (author: Iyi Kon)  
 Screenshots: own, unless stated otherwise  
 
-**ONLINE SOURCES**
-
+**ONLINE SOURCES**  
 <http://public2.brighttalk.com/resource/core/217857/the-state-of-technical-communication_474463.pdf>  
 <http://techwriter.pl/cv-najwazniejszy-dokument-tech-writera/>  
 <http://techwriter.pl/jak-dostac-pierwsza-prace-jako-technical-writer/>  
