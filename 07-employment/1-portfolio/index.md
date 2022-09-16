@@ -22,9 +22,9 @@ Anything that makes you proud and attests to your skills, for example:
 
 ### Where to publish?
 
-Attaching projects to emails can be awkward, if not impossible (file size limits). Ideally, you should collect all your works in one place and publish them online. Then, you could simply include the link on your resume.  
+Attaching projects to emails can be awkward, if not impossible (file size limits). Ideally, you should collect all your works in one place and publish them online. Then you just include the link on your resume.  
 
-First, you will need a hosting service to upload your resources. If you have a blog or a website where you can store and share your files – and you know how to – that's one option. If you'd rather follow a simple method with few technicalities – read on.  
+First, you will need a hosting service to upload your resources. If you have a blog or a website where you can store and share your files – and you know how to – that's an option. If you'd rather follow a simple method with few technicalities, read on.  
 
 ### How to publish your portfolio on GitHub Pages  
 
