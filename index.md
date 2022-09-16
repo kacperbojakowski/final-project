@@ -69,7 +69,7 @@ This guide was created in 2022 and adapted to the Polish job market at the time.
    * [Degrees](06-education/5-degrees/)  
 7. [Employment](07-employment/)   
    * [Portfolio](07-employment/1-portfolio/)  
-   * [Resume](07-employment/2-resume/)   
+   * [Resume](07-employment/2-resume/)  
    * [Application](07-employment/3-application/)  
 8. [Conclusion](08-conclusion/)  
 9. [Glossary](09-glossary/)  
