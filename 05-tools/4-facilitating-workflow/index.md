@@ -55,22 +55,22 @@ Git is the bread and butter of modern technical writing and it is crucial that y
 * Mind the difference between main repositories and [forks](https://docs.github.com/en/get-started/quickstart/fork-a-repo).
 * Save your work often and commit regularly (a few times a day).
 
-> 💡 **TIP:** Don't get too caught up in following these tips. You should learn good habits, but always focus on the content first. Perfection is not always possible; for example, with GitHub Pages (if you don't set up [Jekyll](../2-content-management-and-publishing/index.md/#static-site-generators) environment locally), you will probably commit much too often and with default messages, just to see the results on your page – and that's OK.  
+> 💡 **TIP:** Don't get too caught up in following these tips. You should learn good habits, but always focus on the content first. Perfection is not always possible. For example, with GitHub Pages (if you don't set up [Jekyll](../2-content-management-and-publishing/index.md/#static-site-generators) environment locally), you will probably commit much too often and with default messages, just to see the results on your page – and that's OK.  
 
 ### Project management
 
-Technical writers may also use various software to facilitate project management; these are usually solutions adopted globally (i.e., *by everybody* ☺) in a company – and they will vary.  
+Technical writers use a variety of software to facilitate project management. These are usually solutions that companies adopt for continuous, long-term use within a certain management framework. Once in place, project management tools set the workflow for a team, a whole department, or an entire organization.
 
-An example of such software is Atlassian's [Jira](https://www.atlassian.com/software/jira):
+A very popular tool of this type is Atlassian's [Jira](https://www.atlassian.com/software/jira). Although originally intended as a bug tracking system, Jira has expanded to include a range of functionalities designed specifically for the purpose of project management.  
+
+In the screenshot below, you can see the main project view in Jira. Notice the section for the current [sprint](../../09-glossary/index.md/#s) and separate columns for tasks: *"to do"*, *"in progress"*, *"in review"*, etc. 
 
 ![Jira](../../images/jira.png)  
 *[Agile](../../09-glossary/index.md/#a) project management in Jira.*
 
-Although originally intended as a bug tracking system only, it quickly developed and today encompasses a lot more functions within broadly defined project management.  
+In this view, you can grab and move tasks across columns, assign tasks to people, add descriptions, write comments, and so on. As expected from a bug-tracking tool, you can also integrate Jira with version control and link Git commits to issues in your project panel.
 
-In the screenshot below, you can see the main screen of a project in Jira: the current [sprint](../../09-glossary/index.md/#s) with divided columns for tasks *"to do"*, *"in progress"*, *"in review"*, and so on. Apart from the ability to grab and move the tasks across the columns, you can also link issues, add descriptions, and a lot more.  
-
-There are many other tools for project management out there, and we are not going to list them here. Just do know that they exist, and their purpose is to facilitate workflow without a given *methodology* (e.g., aforementioned Agile). Which tool you will use will depend on your company and their adopted methodology.   
+There are many other project management tools, and we are not going to list them all here. In the end, you will use whatever software your company has adopted. To be better prepared, you can read more on project management practices: Agile, Scrum, Kanban, etc. As long as you understand the underlying methodology, picking up a tool that aids it should be fairly simple.  
 
 ---
 
