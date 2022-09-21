@@ -31,7 +31,7 @@ You can go through the pages in order by clicking "Next section/topic" at the bo
 
 > 💡 **TIP:** Whenever an image is rendered too small in your browser, right-click it and select *Open image in new tab* to view in full size.  
 
-> 💡 **TIP:** When viewing the mobile version, remember that you can slide your finger on tables to scroll their content horizontally (wide tables get squished on smaller screens).  
+> 💡 **TIP:** When viewing the mobile version, remember that you can slide your finger to scroll content in tables horizontally (wide tables get squished on smaller screens, and horizontal scrollbards may be hidden).  
 
 <!-- HTML CONTAMINATION -->
 
