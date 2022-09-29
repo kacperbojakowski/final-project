@@ -29,7 +29,7 @@ You can contact me at <kacperbojakowski@gmail.com>.
 **Supervisor:** Dariusz Drezno  
 **Peer reviewer:** Michał Olender  
 
-I selected the topic from a list provided by the class instructors. My choice was self-referential, if not a bit ironic, but with a good reason. I wanted to make a reminder for myself and for others in training to stay motivated in pursuit of success in the new field. I believe that with a good manual, no matter what the task is, failure is not an option. I should hope then that this one here is a good one[^1].  
+I selected the topic from a list provided by the class instructors. My choice was self-referential, if not a bit ironic, but with a good reason. I wanted to make a reminder for myself and for others in training to stay motivated in pursuit of success in the new field. I believe that with a good manual, no matter what the task is, failure is not an option. I should hope then that this one here is a good one.  
 
 I decided to go for Markdown with Jekyll instead of Oxygen XML / DITA or MadCap Flare (the two other options available for this project). With due respect to DITA and HATs, I much prefer the Docs as Code approach. I like the simplicity of raw text, markup, and code without extra layers of abstraction. Take this as an excuse all you want! ☺  
 
